@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import PropTypes from 'prop-types';
 import SummaryPanel from './SummaryPanel';
-import { parseTags } from '../utils';
+import { parseTags, getSafeStorage } from '../utils';
 
 function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFavorites, favoriteIds, onBack }) {
     const [settings, setSettings] = useState({});
@@ -17,35 +17,35 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
     const { availableCounts, topicsMap } = useMemo(() => {
         const counts = {}; const topics = {};
         if (allQuestions) {
-        allQuestions.forEach(q => {
-            const { topic, difficulty } = parseTags(q.tags);
-            if (!counts[topic]) {
-            counts[topic] = { 'fácil': 0, 'médio': 0, 'difícil': 0 };
-            topics[topic] = topic;
-            }
-            if (counts[topic][difficulty] !== undefined) counts[topic][difficulty]++;
-        });
+            allQuestions.forEach(q => {
+                const { topic, difficulty } = parseTags(q.tags);
+                if (!counts[topic]) {
+                    counts[topic] = { 'fácil': 0, 'médio': 0, 'difícil': 0 };
+                    topics[topic] = topic;
+                }
+                if (counts[topic][difficulty] !== undefined) counts[topic][difficulty]++;
+            });
         }
         return { availableCounts: counts, topicsMap: topics };
     }, [allQuestions]);
 
     useEffect(() => {
-        const savedPresets = JSON.parse(localStorage.getItem(`quizPresets_${discipline.id}`)) || [];
+        const savedPresets = getSafeStorage(`quizPresets_${discipline.id}`, []);
         setPresets(savedPresets);
 
-        const lastUsed = JSON.parse(localStorage.getItem(`lastQuizSettings_${discipline.id}`));
+        const lastUsed = getSafeStorage(`lastQuizSettings_${discipline.id}`, null);
         if (lastUsed) {
             setSettings(lastUsed);
         } else if (Object.keys(availableCounts).length > 0) {
             const initialSettings = {};
-            for(const topic in availableCounts) {
+            for (const topic in availableCounts) {
                 initialSettings[topic] = {};
                 difficultyKeys.forEach(diff => initialSettings[topic][diff] = Math.min(1, availableCounts[topic][diff]));
             }
             setSettings(initialSettings);
         }
     }, [availableCounts, difficultyKeys, discipline.id]);
-    
+
     const filteredAndSortedTopics = useMemo(() => {
         const topics = Object.keys(availableCounts);
         const sortedTopics = topics.sort((a, b) => a.localeCompare(b, 'pt-BR'));
@@ -56,7 +56,7 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
     const handleSettingsChange = (topic, difficulty, value) => {
         const max = availableCounts[topic]?.[difficulty] ?? 0;
         const numValue = Math.max(0, Math.min(max, parseInt(value, 10) || 0));
-        setSettings(prev => ({...prev, [topic]: { ...(prev[topic] || {}), [difficulty]: numValue }}));
+        setSettings(prev => ({ ...prev, [topic]: { ...(prev[topic] || {}), [difficulty]: numValue } }));
     };
 
     const handleSavePreset = () => {
@@ -71,7 +71,7 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
         const preset = presets.find(p => p.name === name);
         if (preset) { setSettings(preset.settings); setPresetName(preset.name); }
     };
-    
+
     const handleDeletePreset = (name) => {
         if (name && confirm(`Excluir o modelo "${name}"?`)) {
             const newPresets = presets.filter(p => p.name !== name);
@@ -83,16 +83,16 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
 
     const handleClearAll = () => {
         const clearedSettings = {};
-        for(const topic in availableCounts) {
-        clearedSettings[topic] = {'fácil': 0, 'médio': 0, 'difícil': 0};
+        for (const topic in availableCounts) {
+            clearedSettings[topic] = { 'fácil': 0, 'médio': 0, 'difícil': 0 };
         }
         setSettings(clearedSettings);
     };
 
     const handleFillTopic = (topic) => {
-        setSettings(prev => ({...prev, [topic]: { ...availableCounts[topic] }}));
+        setSettings(prev => ({ ...prev, [topic]: { ...availableCounts[topic] } }));
     };
-    
+
     const start = (selectedSettings) => {
         let selectedQuestions = [];
         for (const topic in selectedSettings) {
@@ -107,7 +107,7 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
                 }
             }
         }
-        if(selectedQuestions.length === 0) { alert('Selecione pelo menos uma questão.'); return; }
+        if (selectedQuestions.length === 0) { alert('Selecione pelo menos uma questão.'); return; }
         localStorage.setItem(`lastQuizSettings_${discipline.id}`, JSON.stringify(selectedSettings));
         onStartQuiz([...selectedQuestions].sort(() => 0.5 - Math.random()));
     };
@@ -115,12 +115,12 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
     const startQuickQuiz = (count) => {
         const numCount = parseInt(count, 10);
         if (!numCount || numCount <= 0) { alert('Insira um número válido.'); return; }
-        if(numCount > allQuestions.length) {
+        if (numCount > allQuestions.length) {
             alert(`Solicitado (${numCount}) excede o total disponível (${allQuestions.length}).`); return;
         }
         onStartQuiz([...allQuestions].sort(() => 0.5 - Math.random()).slice(0, numCount));
     };
-    
+
     const startFavoritesQuiz = (count) => {
         const numCount = parseInt(count, 10);
         const favoriteQuestions = allQuestions.filter(q => favoriteIds.has(q.id));
@@ -133,11 +133,11 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
         }
         onStartQuiz([...favoriteQuestions].sort(() => 0.5 - Math.random()).slice(0, numCount));
     };
-    
+
     return (
         <div>
             {/* --- MUDANÇA AQUI --- */}
-            <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem'}}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
                 <h2>Configurar Quiz</h2>
                 <button onClick={onBack} className="secondary">Trocar Disciplina</button>
             </div>
@@ -161,7 +161,7 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
                         <h4>Quiz com Favoritas</h4>
                         <div className="favorites-controls">
                             <span>Sortear:</span>
-                            <input type="number" value={favoritesQuizCount} onChange={(e) => setFavoritesQuizCount(e.target.value)} style={{width: '60px'}}/>
+                            <input type="number" value={favoritesQuizCount} onChange={(e) => setFavoritesQuizCount(e.target.value)} style={{ width: '60px' }} />
                             <span>de {favoriteIds.size} favoritas.</span>
                             <button onClick={() => startFavoritesQuiz(favoritesQuizCount)} disabled={favoriteIds.size === 0}>Iniciar</button>
                         </div>
@@ -171,22 +171,22 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
                         <h4>Questionário Rápido</h4>
                         <div className="quick-quiz-controls">
                             {[10, 20, 50].map(n => n <= allQuestions.length && <button key={n} onClick={() => startQuickQuiz(n)}>{n} questões</button>)}
-                            <input type="number" value={quickQuizCount} onChange={(e) => setQuickQuizCount(e.target.value)} style={{width: '60px'}}/>
+                            <input type="number" value={quickQuizCount} onChange={(e) => setQuickQuizCount(e.target.value)} style={{ width: '60px' }} />
                             <button onClick={() => startQuickQuiz(quickQuizCount)}>Customizado</button>
                         </div>
                     </div>
-                    
+
                     <div className="manual-quiz-header">
                         <h2>Montar Questionário Manualmente</h2>
                         <button className="secondary" onClick={handleClearAll}>Limpar Tudo</button>
                     </div>
-                    <input 
+                    <input
                         type="text"
                         placeholder="Buscar por tópico..."
                         className="search-input"
                         value={searchTerm}
                         onChange={(e) => setSearchTerm(e.target.value)}
-                        style={{marginBottom: '1.5rem'}}
+                        style={{ marginBottom: '1.5rem' }}
                     />
 
                     {filteredAndSortedTopics.map(topic => (
@@ -211,7 +211,7 @@ function SettingsScreen({ discipline, allQuestions, onStartQuiz, onGoToManageFav
                 </div>
                 <div className="settings-sidebar">
                     <SummaryPanel settings={settings} topicsMap={topicsMap} />
-                    <button onClick={() => start(settings)} style={{width: '100%', marginTop: '1rem', padding: '1rem'}}>Iniciar Questionário Manual</button>
+                    <button onClick={() => start(settings)} style={{ width: '100%', marginTop: '1rem', padding: '1rem' }}>Iniciar Questionário Manual</button>
                 </div>
             </div>
         </div>

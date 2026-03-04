@@ -5,6 +5,7 @@ import QuizScreen from './components/QuizScreen';
 import ReviewScreen from './components/ReviewScreen';
 import ResultsScreen from './components/ResultsScreen';
 import ManageFavoritesScreen from './components/ManageFavoritesScreen';
+import { getSafeStorage } from './utils';
 
 function App() {
   const [disciplineCategories, setDisciplineCategories] = useState([]);
@@ -15,7 +16,7 @@ function App() {
   const [gameState, setGameState] = useState('discipline_selection');
   const [quizSession, setQuizSession] = useState({ questions: [], answers: [] });
   const [initialQuizIndex, setInitialQuizIndex] = useState(0);
-  
+
   const [favoriteIds, setFavoriteIds] = useState(new Set());
 
   // Carrega a lista de disciplinas disponíveis no início
@@ -41,7 +42,7 @@ function App() {
   // Carrega/Salva favoritos específicos da disciplina
   useEffect(() => {
     if (selectedDiscipline) {
-      const savedFavorites = JSON.parse(localStorage.getItem(`quizFavorites_${selectedDiscipline.id}`)) || [];
+      const savedFavorites = getSafeStorage(`quizFavorites_${selectedDiscipline.id}`, []);
       setFavoriteIds(new Set(savedFavorites));
     }
   }, [selectedDiscipline]);
@@ -73,9 +74,9 @@ function App() {
   }, []);
 
   const handleStartQuiz = useCallback((questions) => {
-    setQuizSession({ 
-      questions: questions, 
-      answers: questions.map(q => ({ question: q, selected: null })) 
+    setQuizSession({
+      questions: questions,
+      answers: questions.map(q => ({ question: q, selected: null }))
     });
     setInitialQuizIndex(0);
     setGameState('quiz');
@@ -85,7 +86,7 @@ function App() {
     setQuizSession(prev => ({ ...prev, answers }));
     setGameState('review');
   }, []);
-  
+
   const handleGoToQuestionFromReview = useCallback((index, currentAnswers) => {
     setQuizSession(prev => ({ ...prev, answers: currentAnswers }));
     setInitialQuizIndex(index);
@@ -96,7 +97,7 @@ function App() {
     setQuizSession(prev => ({ ...prev, answers: finalAnswers }));
     setGameState('results');
   }, []);
-  
+
   const handleRestart = useCallback(() => setGameState('settings'), []);
   const handleGoToManageFavorites = useCallback(() => setGameState('manage_favorites'), []);
 
@@ -104,43 +105,43 @@ function App() {
     if (isLoading && !selectedDiscipline) return <p>Carregando disciplinas...</p>;
     if (error) return <p className="error-message">Erro: {error}</p>;
 
-    switch(gameState) {
+    switch (gameState) {
       case 'settings':
         if (isLoading) return <p>Carregando questões da disciplina...</p>;
-        return <SettingsScreen 
-                  discipline={selectedDiscipline}
-                  allQuestions={allQuestions} 
-                  onStartQuiz={handleStartQuiz} 
-                  onGoToManageFavorites={handleGoToManageFavorites}
-                  favoriteIds={favoriteIds}
-                  onBack={handleBackToDisciplines}
-                  />;
-      case 'quiz': 
-        return <QuizScreen 
-                  quizQuestions={quizSession.questions} 
-                  initialAnswers={quizSession.answers}
-                  initialIndex={initialQuizIndex}
-                  onGoToReview={handleGoToReview}
-                  favoriteIds={favoriteIds}
-                  onToggleFavorite={handleToggleFavorite}
-                  />;
-      case 'review': 
-        return <ReviewScreen 
-                  answers={quizSession.answers} 
-                  onFinishQuiz={handleFinishQuiz} 
-                  onGoToQuestion={handleGoToQuestionFromReview} 
-                  favoriteIds={favoriteIds}
-                  />;
-      case 'results': 
+        return <SettingsScreen
+          discipline={selectedDiscipline}
+          allQuestions={allQuestions}
+          onStartQuiz={handleStartQuiz}
+          onGoToManageFavorites={handleGoToManageFavorites}
+          favoriteIds={favoriteIds}
+          onBack={handleBackToDisciplines}
+        />;
+      case 'quiz':
+        return <QuizScreen
+          quizQuestions={quizSession.questions}
+          initialAnswers={quizSession.answers}
+          initialIndex={initialQuizIndex}
+          onGoToReview={handleGoToReview}
+          favoriteIds={favoriteIds}
+          onToggleFavorite={handleToggleFavorite}
+        />;
+      case 'review':
+        return <ReviewScreen
+          answers={quizSession.answers}
+          onFinishQuiz={handleFinishQuiz}
+          onGoToQuestion={handleGoToQuestionFromReview}
+          favoriteIds={favoriteIds}
+        />;
+      case 'results':
         return <ResultsScreen userAnswers={quizSession.answers} onRestart={handleRestart} favoriteIds={favoriteIds} />;
       case 'manage_favorites':
-          return <ManageFavoritesScreen 
-                    allQuestions={allQuestions}
-                    favoriteIds={favoriteIds}
-                    onToggleFavorite={handleToggleFavorite}
-                    onBack={handleRestart}
-                    />;
-      default: 
+        return <ManageFavoritesScreen
+          allQuestions={allQuestions}
+          favoriteIds={favoriteIds}
+          onToggleFavorite={handleToggleFavorite}
+          onBack={handleRestart}
+        />;
+      default:
         return <DisciplineSelectionScreen disciplineCategories={disciplineCategories} onSelectDiscipline={handleSelectDiscipline} />;
     }
   };

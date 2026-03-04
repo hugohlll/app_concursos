@@ -16,3 +16,15 @@ export function parseTags(tagsString = "") {
     let difficulty = parts.pop()?.toLowerCase() || 'indefinida';
     return { topic: parts.join(', ') || 'Sem Tópico', difficulty };
 }
+
+// Utilitário seguro para ler JSON do localStorage sem quebrar a aplicação
+export function getSafeStorage(key, fallbackValue) {
+    try {
+        const item = localStorage.getItem(key);
+        return item ? JSON.parse(item) : fallbackValue;
+    } catch (error) {
+        console.warn(`[getSafeStorage] Erro ao ler ${key} do localStorage. Resetando valores para prevenir crash.`, error);
+        localStorage.removeItem(key);
+        return fallbackValue;
+    }
+}
