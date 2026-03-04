@@ -1,11 +1,11 @@
 version: '3.8'
 
 services:
-  quiz-app-frontend:
+  app_concursos-frontend:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: quiz-app-react
+    container_name: app_concursos-react
     restart: unless-stopped
     ports:
       - "8080:80"
