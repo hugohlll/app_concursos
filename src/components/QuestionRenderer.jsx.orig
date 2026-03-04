@@ -1,0 +1,62 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
+const parseMarkdown = (text = "") => {
+    const parts = text.split(/\*\*(.*?)\*\*/g);
+    return parts.map((part, index) => {
+        return index % 2 === 1 ? <b key={index}>{part}</b> : part;
+    });
+};
+
+function QuestionRenderer({ question }) {
+    // Verifica se é uma questão de "julgue os itens"
+    const isItemizedQuestion = question.items && Array.isArray(question.items);
+
+    return (
+        <div className="question-content">
+            <p className="question-text">
+                {parseMarkdown(question.question)}
+            </p>
+
+            {/* Renderiza a lista de itens, se existir */}
+            {isItemizedQuestion && (
+                <div className="question-items-list">
+                    <ul>
+                        {question.items.map((item, itemIndex) => (
+                            <li key={itemIndex}>{item}</li>
+                        ))}
+                    </ul>
+                </div>
+            )}
+
+            {/* Renderiza a pergunta final, se existir */}
+            {isItemizedQuestion && question.closing_statement && (
+                 <p className="question-text closing-statement">
+                    {parseMarkdown(question.closing_statement)}
+                </p>
+            )}
+
+            {/* Renderiza o bloco de associação, se existir */}
+            {question.pairs && (
+                <div className="question-pairs">
+                    {question.pairs.map((pair, index) => (
+                        <div key={index} className="pair-block">
+                            <h4>{pair.header}</h4>
+                            <ul>
+                                {pair.items.map((item, itemIndex) => (
+                                    <li key={itemIndex}>{item}</li>
+                                ))}
+                            </ul>
+                        </div>
+                    ))}
+                </div>
+            )}
+        </div>
+    );
+}
+
+QuestionRenderer.propTypes = {
+    question: PropTypes.object.isRequired,
+};
+
+export default QuestionRenderer;

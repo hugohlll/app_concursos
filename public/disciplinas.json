@@ -1,0 +1,117 @@
+[
+  {
+    "categoryTitle": "Conhecimentos Específicos",
+    "disciplines": [
+      {
+        "id": "lei_14133",
+        "title": "Lei 14.133/2021",
+        "description": "A Nova Lei de Licitações e Contratos Administrativos.",
+        "questionFile": "/disciplinas/lei_14133.json",
+        "id_prefix": "L14"
+      },
+      {
+        "id": "ica_85-16",
+        "title": "ICA 85-16",
+        "description": "Fiscalização e Recebimento de Obras e Serviços de Engenharia",
+        "questionFile": "/disciplinas/ica_85-16.json",
+        "id_prefix": "I85"
+      },
+      {
+        "id": "ica_12-23",
+        "title": "ICA 12-23",
+        "description": "Fiscalização e Recebimento de Bens e Serviços e Aplicação de Sanções Administrativa",
+        "questionFile": "/disciplinas/ica_12-23.json",
+        "id_prefix": "I12"
+      },
+      {
+        "id": "ica_83-1",
+        "title": "ICA 83-1",
+        "description": "Controle e Gestão Ambiental no Âmbito do Comando da Aeronáutica",
+        "questionFile": "/disciplinas/ica_83-1.json",
+        "id_prefix": "I83"
+      },
+      {
+        "id": "ica_87-7",
+        "title": "ICA 87-7",
+        "description": "Controle, Administração e Gestão do Patrimônio Imobiliário sob Administração do Comando da Aeronáutica",
+        "questionFile": "/disciplinas/ica_85-16.json",
+        "id_prefix": "I87"
+      },
+      {
+        "id": "RCA_12-20_L",
+        "title": "RADA-e MANUAL L",
+        "description": "Manual Eletrônico do Sistema de Próprios Nacionais Residenciais (SISPNR).",
+        "questionFile": "/disciplinas/rca_12-20_l.json",
+        "id_prefix": "R12"
+      }
+    ]
+  },
+  {
+    "categoryTitle": "Português e Regulamentos",
+    "disciplines": [
+      {
+        "id": "portugues",
+        "title": "Português",
+        "description": "Gramática e interpretação de textos.",
+        "questionFile": "/disciplinas/portugues.json",
+        "id_prefix": "POR"
+      },
+      {
+        "id": "lei_13954",
+        "title": "LEI 13.954/2019",
+        "description": "Estatuto dos Militares.",
+        "questionFile": "/disciplinas/estatuto.json",
+        "id_prefix": "EST"
+      },
+      {
+        "id": "rdaer",
+        "title": "RDAER",
+        "description": "Regulamento Disciplinar da Aeronáutica",
+        "questionFile": "/disciplinas/rdaer.json",
+        "id_prefix": "RDA"
+      },
+      {
+        "id": "ica_111-1",
+        "title": "ICA 111-1",
+        "description": "Instrução que dispõe sobre o Inquérito Policial Militar e o Controle de Informações de Militares Envolvidos com Justiça Criminal no Âmbito do Comando da Aeronáutica.",
+        "questionFile": "/disciplinas/ica_111-1.json",
+        "id_prefix": "IPM"
+      },
+      {
+        "id": "ica_111-2",
+        "title": "ICA 111-2",
+        "description": "Sindicância no Âmbito do Comando da Aeronáutica",
+        "questionFile": "/disciplinas/ica_111-2.json",
+        "id_prefix": "SND"
+      },
+      {
+        "id": "ica_111-3",
+        "title": "ICA 111-3",
+        "description": "Auto de Prisão em Flagrante Delito no Âmbito do Comando da Aeronáutica.",
+        "questionFile": "/disciplinas/ica_111-3.json",
+        "id_prefix": "SND"
+      },
+      {
+        "id": "ica_111-6",
+        "title": "ICA 111-6",
+        "description": "Regulamentação da Sistemática de Apuração de Transgressão Disciplinar e da Aplicação da Punição Disciplinar.",
+        "questionFile": "/disciplinas/ica_111-6.json",
+        "id_prefix": "TRD"
+      },
+      {
+        "id": "rca_34-1",
+        "title": "RCA 34-1",
+        "description": "Regulamento Interno dos Serviços da Aeronáutica (RISAER).",
+        "questionFile": "/disciplinas/ica_111-6.json",
+        "id_prefix": "RIS"
+      },
+      {
+        "id": "rcont",
+        "title": "RCONT",
+        "description": "Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar das Forças Armadas.",
+        "questionFile": "/disciplinas/rcont.json",
+        "id_prefix": "RCT"
+      }
+    ]
+  }
+]

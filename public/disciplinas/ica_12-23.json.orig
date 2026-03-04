@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "I12-087",
+    "question": "Qual das seguintes afirmações sobre a competência do Agente de Controle Interno (ACI) da UG (Credora ou Executora) está correta, conforme a ICA 12-23?",
+    "options": [
+      "É de sua competência aprovar o Relatório de Situação Contratual mensalmente.",
+      "É de sua competência, acompanhado do chefe da ARC, realizar reunião de iniciação para cada contrato pactuado para esclarecer aspectos técnico-operacionais.",
+      "É de sua competência instaurar o Processo Administrativo de Apuração de Irregularidade (PAAI).",
+      "É de sua competência designar fiscais de contrato e comissões de recebimento."
+    ],
+    "correct_answer": "b",
+    "reference": "2.4.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-138",
+    "question": "A ICA 12-23 prevê a reincidência como um critério para gradação de sanções. Considere as seguintes reincidências e suas respectivas sanções:",
+    "items": [
+      "I. Reincidência da prática de ilícito sancionável na forma das alíneas 'a' e 'b' do item 6.1.12 (Lei nº 8.666/1993), em prazo inferior a 24 (vinte e quatro) meses, pode levar à suspensão temporária por até 6 meses.",
+      "II. Reincidência da prática de inadimplemento sancionável na forma da alínea 'c' do item 6.1.12 (Lei nº 8.666/1993), em prazo inferior a 36 (trinta e seis) meses, pode resultar em suspensão temporária por até 24 meses.",
+      "III. Reincidência da prática de ilícito sancionável na forma da alínea 'c' do item 6.1.14 (Lei nº 10.520/2002), em prazo inferior a 36 (trinta e seis) meses, pode levar ao impedimento de licitar e contratar com a União por até 12 meses.",
+      "IV. Reincidência da prática de inadimplemento sancionável na forma da alínea 'd' do item 6.1.12 (Lei nº 8.666/1993), em prazo inferior a 48 (quarenta e oito) meses, pode resultar em suspensão temporária por até 24 meses."
+    ],
+    "closing_statement": "Qual(is) das afirmações sobre a gradação da sanção por reincidência está(ão) **CORRETA(S)**?",
+    "options": [
+      "I, II, III e IV.",
+      "Apenas II e III.",
+      "Apenas I, III e IV.",
+      "Apenas I e II."
+    ],
+    "correct_answer": "c",
+    "reference": "Itens 6.1.12 alíneas 'c', 'd', 'e', 6.1.14 alíneas 'c', 'd', pág. 24-26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-005",
+    "question": "Conforme a ICA 12-23, qual documento constitui o início do Processo Administrativo de Apuração de Irregularidade (PAAI)?",
+    "options": [
+      "O Relatório de Situação Contratual.",
+      "A notificação formal do fato à fiscalização do contrato.",
+      "O despacho motivado do Ordenador de Despesas que instaura o PAAI.",
+      "O Termo de Recebimento Provisório."
+    ],
+    "correct_answer": "c",
+    "reference": "5.1.1, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Fácil"
+  },
+  {
+    "id": "I12-030",
+    "question": "Conforme a ICA 12-23, a competência do Agente de Controle Interno (ACI) inclui acompanhar o chefe da Assessoria de Risco Contratual (ARC) para realizar a reunião de iniciação para cada contrato pactuado. Qual o objetivo dessa reunião?",
+    "options": [
+      "Definir a aplicação de sanções administrativas.",
+      "Esclarecer aspectos técnico-operacionais do contrato e diligenciar junto à Fiscalização para o cumprimento dos prazos legais.",
+      "Aprovar o Relatório de Situação Contratual mensalmente.",
+      "Instaurar Processos Administrativos de Apuração de Irregularidade (PAAI)."
+    ],
+    "correct_answer": "b",
+    "reference": "2.4.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-046",
+    "question": "Qual das seguintes frases define corretamente a função da Assessoria de Risco Contratual (ARC), conforme as conceituações da ICA 12-23?",
+    "options": [
+      "É a assessoria vinculada ao Ordenador de Despesas com a finalidade de acompanhar o adimplemento dos objetos contratados e instruir o PAAI.",
+      "É o setor responsável pela emissão de pareceres jurídicos sobre licitações.",
+      "É a comissão encarregada de realizar o recebimento definitivo de bens e serviços.",
+      "É o grupo responsável pela negociação de contratos com fornecedores inadimplentes."
+    ],
+    "correct_answer": "a",
+    "reference": "1.2.6, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Médio"
+  },
+  {
+    "id": "I12-014",
+    "question": "Conforme a ICA 12-23, qual o prazo de investidura dos membros das Comissões de Recebimento, vedada a recondução da totalidade de seus membros para a mesma comissão em período subsequente, salvo exceções justificadas?",
+    "options": [
+      "Até 6 meses.",
+      "Até 3 anos.",
+      "Até 2 anos.",
+      "Até 1 ano."
+    ],
+    "correct_answer": "d",
+    "reference": "2.1.12, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-143",
+    "question": "A ICA 12-23 define 'comportamento inidôneo'. Qual das opções abaixo caracteriza a conduta que se enquadra nessa conceituação?",
+    "options": [
+      "A falha na execução do contrato por negligência, sem intenção de enganar a Administração.",
+      "A tentativa intencional de enganar ou corromper a Administração para obter vantagem indevida.",
+      "O atraso no fornecimento de bens ou na execução de serviços devido a problemas logísticos imprevistos.",
+      "A não quitação de multas no prazo estipulado por dificuldades financeiras da contratada."
+    ],
+    "correct_answer": "b",
+    "reference": "6.1.16, pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-140",
+    "question": "A empresa 'Gama' é uma prestadora de serviços de engenharia. Em um contrato recente, 'Gama' foi multada pela segunda vez no mesmo Processo Administrativo de Gestão (PAG). Além disso, em um pregão anterior, a empresa se recusou a apresentar a garantia contratual no prazo. Se essas duas ocorrências forem avaliadas no contexto da Lei nº 8.666/1993 e da Lei nº 10.520/2002, qual seria a gradação máxima da sanção de suspensão temporária (Lei nº 8.666/1993) e de impedimento de licitar e contratar com a União (Lei nº 10.520/2002), respectivamente, que a empresa 'Gama' poderia receber pelas ações descritas?",
+    "options": [
+      "Suspensão temporária de até 3 meses e impedimento de licitar e contratar com a União de até 6 meses.",
+      "Suspensão temporária de até 6 meses e impedimento de licitar e contratar com a União de até 6 meses.",
+      "Suspensão temporária de até 12 meses e impedimento de licitar e contratar com a União de até 12 meses.",
+      "Suspensão temporária de até 24 meses e impedimento de licitar e contratar com a União de até 5 anos."
+    ],
+    "correct_answer": "b",
+    "reference": "Itens 6.1.12 alínea 'c', 6.1.14 alínea 'c', pág. 24-25 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-061",
+    "question": "Conforme a ICA 12-23, o Agente de Controle Interno (ACI) (titular ou delegado) da UG tem diversas competências. Qual das seguintes é uma de suas atribuições?",
+    "options": [
+      "Instaurar o Processo Administrativo de Apuração de Irregularidade (PAAI).",
+      "Aprovar o Relatório de Situação Contratual apresentado pela fiscalização.",
+      "Realizar reunião de iniciação para cada contrato pactuado, acompanhado do chefe da ARC.",
+      "Aplicar sanções administrativas à contratada após análise do processo."
+    ],
+    "correct_answer": "c",
+    "reference": "2.4.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-160",
+    "question": "Sobre as responsabilidades em relação à reunião de iniciação e ao Relatório de Situação Contratual, de acordo com a ICA 12-23, analise as seguintes afirmações:",
+    "items": [
+      "I. Compete ao Ordenador de Despesas (titular ou delegado) da UG aprovar, mensalmente, o Relatório de Situação Contratual apresentado pela fiscalização.",
+      "II. O Agente de Controle Interno (ACI) da UG, acompanhado do chefe da ARC, é responsável por realizar a reunião de iniciação para cada contrato pactuado, para esclarecer aspectos técnico-operacionais.",
+      "III. A conferência da exatidão dos dados lançados no Relatório de Situação Contratual, com foco no vencimento dos prazos, é uma competência do Agente de Controle Interno (ACI) da UG Executora.",
+      "IV. A autuação do Relatório de Situação Contratual no Processo Administrativo de Gestão (PAG) correspondente é uma responsabilidade exclusiva do Ordenador de Despesas da UG EXEC, após a aprovação."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas II e IV.",
+      "Apenas I, II e III.",
+      "I, II, III e IV."
+    ],
+    "correct_answer": "c",
+    "reference": "2.3.1, pág. 16; 2.4.1, pág. 16; 2.4.2, pág. 17 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-097",
+    "question": "A ICA 12-23 define 'Acompanhamento' como a atividade exercida pelo Fiscal do Contrato, pela Comissão de Fiscalização ou por outro agente designado. Qual o principal objetivo dessa atividade?",
+    "options": [
+      "Aprovar pagamentos aos fornecedores.",
+      "Avaliar o cumprimento das disposições contratuais para identificar a possibilidade de ocorrência de eventuais desvios.",
+      "Negociar aditivos contratuais.",
+      "Aplicar sanções administrativas diretamente."
+    ],
+    "correct_answer": "b",
+    "reference": "1.2.1.1, pág. 9 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-150",
+    "question": "A empresa 'Lumen', que presta serviços de manutenção para o Comando da Aeronáutica, incorreu nas seguintes situações: (1) Não apresentou garantia contratual, nos termos do edital da licitação na modalidade pregão. (2) Falhou na execução de um contrato de serviços, o que foi considerado 'falhar na execução do contrato' conforme a ICA 12-23. (3) Já havia recebido duas sanções de multa no âmbito do COMAER no prazo de doze meses, sem ter adotado as medidas corretivas no prazo determinado pela Administração (referente a licitações tradicionais). De acordo com a ICA 12-23, quais seriam as gradações máximas de sanção aplicáveis à empresa 'Lumen' para cada uma dessas situações, considerando as leis específicas?",
+    "options": [
+      "Para (1) Impedimento de licitar e contratar com a União de até 6 meses; para (2) Impedimento de licitar e contratar com a União de até 3 anos; para (3) Suspensão temporária de até 6 meses.",
+      "Para (1) Impedimento de licitar e contratar com a União de até 3 meses; para (2) Impedimento de licitar e contratar com a União de até 2 anos; para (3) Suspensão temporária de até 6 meses.",
+      "Para (1) Suspensão temporária de até 6 meses; para (2) Suspensão temporária de até 3 anos; para (3) Impedimento de licitar e contratar com a União de até 12 meses.",
+      "Para (1) Impedimento de licitar e contratar com a União de até 12 meses; para (2) Impedimento de licitar e contratar com a União de até 5 anos; para (3) Suspensão temporária de até 24 meses."
+    ],
+    "correct_answer": "a",
+    "reference": "6.1.14 alínea 'c', pág. 25; 6.1.14 alínea 'f', pág. 26; 6.1.12 alínea 'c', pág. 24 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-082",
+    "question": "De acordo com a ICA 12-23, quem tem a competência de aplicar a sanção administrativa, assegurando o direito ao contraditório e à ampla defesa, quando a contratada é faltosa ou inadimplente no cumprimento de suas obrigações?",
+    "options": [
+      "O Fiscal do Contrato.",
+      "A Comissão de Recebimento.",
+      "O Ordenador de Despesas (titular ou delegado) da UG signatária do instrumento contratual.",
+      "O Agente de Controle Interno (ACI)."
+    ],
+    "correct_answer": "c",
+    "reference": "2.3.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-042",
+    "question": "Analise as seguintes afirmações sobre o Processo Administrativo de Apuração de Irregularidade (PAAI), segundo a ICA 12-23:",
+    "items": [
+      "I. A notificação ao fornecedor para defesa prévia no PAAI deve conter, obrigatoriamente, a cláusula contratual inadimplida, mas não necessariamente a exposição resumida dos fatos.",
+      "II. Caso o fornecedor não atenda à notificação para defesa prévia, ele perde automaticamente o direito à ampla defesa, reconhecendo a veracidade dos fatos imputados.",
+      "III. O PAAI pode ser arquivado mediante despacho fundamentado do Ordenador de Despesas, mesmo que o fornecedor não tenha ressarcido integralmente os prejuízos causados, desde que a falha inicial tenha sido corrigida.",
+      "IV. As razões de defesa apresentadas pelo fornecedor no PAAI devem ser endereçadas ao Ordenador de Despesas da UG sancionadora, informando o endereço completo do local de protocolo da UG."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas III e IV.",
+      "Apenas I, III e IV.",
+      "Apenas IV."
+    ],
+    "correct_answer": "d",
+    "reference": "5.1.2, pág. 20; 5.1.3, pág. 20; 5.1.5, pág. 20; 5.1.6, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Difícil"
+  },
+  {
+    "id": "I12-106",
+    "question": "Qual das seguintes frases descreve a finalidade do Processo Administrativo de Apuração de Irregularidade (PAAI), conforme a ICA 12-23?",
+    "options": [
+      "Procedimento administrativo interno, formal, composto do registro de todos os atos e da apuração dos fatos administrativos, necessário ao correto esclarecimento e julgamento da autoridade competente.",
+      "Apenas o registro de multas aplicadas.",
+      "Uma etapa opcional antes da aplicação de qualquer sanção.",
+      "O documento que inicia uma nova licitação."
+    ],
+    "correct_answer": "a",
+    "reference": "1.2.28, pág. 13 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-101",
+    "question": "Qual das seguintes informações é **OBRIGATÓRIA** em uma notificação para defesa prévia no PAAI, conforme a ICA 12-23?",
+    "options": [
+      "A cláusula do edital ou contratual inadimplida.",
+      "O valor exato da sanção que será aplicada.",
+      "A assinatura do Agente de Controle Interno.",
+      "O histórico completo de irregularidades do fornecedor."
+    ],
+    "correct_answer": "a",
+    "reference": "5.1.2, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Fácil"
+  },
+  {
+    "id": "I12-085",
+    "question": "A ICA 12-23 permite que terceiros assistam e assessorem a Comissão de Fiscalização com informações pertinentes a essas atribuições. Em que tipo de situação essa contratação de terceiros é mais recomendada?",
+    "options": [
+      "Em situações em que o conhecimento técnico da Comissão não seja suficiente para o exercício pleno do encargo.",
+      "Em todas as situações, para agilizar o processo.",
+      "Quando houver limitação de recursos financeiros na UG.",
+      "Para substituir membros da comissão em caso de férias."
+    ],
+    "correct_answer": "a",
+    "reference": "1.2.11, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Médio"
+  },
+  {
+    "id": "I12-020",
+    "question": "Segundo a ICA 12-23, a Autoridade Superior que julgará e decidirá, em caráter recursal, sobre as sanções de advertência, multa, suspensão temporária e impedimento de licitar e contratar com a União, será:",
+    "options": [
+      "O Ministro de Estado da Defesa.",
+      "O Ordenador de Despesas da UG.",
+      "O superior imediato da autoridade que decidiu inicialmente pela imposição da sanção.",
+      "O Agente de Controle Interno."
+    ],
+    "correct_answer": "c",
+    "reference": "4.1.5, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Fácil"
+  },
+  {
+    "id": "I12-083",
+    "question": "Conforme a ICA 12-23, a notificação ao fornecedor no PAAI deve informar que as razões de defesa deverão ser endereçadas a qual autoridade da UG sancionadora?",
+    "options": [
+      "Ao Agente de Controle Interno.",
+      "Ao Chefe da Assessoria de Risco Contratual.",
+      "Ao Agente Diretor.",
+      "Ao Ordenador de Despesas (titular ou delegado)."
+    ],
+    "correct_answer": "d",
+    "reference": "5.1.2, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Fácil"
+  },
+  {
+    "id": "I12-157",
+    "question": "Analise as seguintes afirmações sobre as competências do Agente Diretor e do Ordenador de Despesas da UG signatária do termo de contrato, conforme a ICA 12-23:",
+    "items": [
+      "I. O Agente Diretor é competente para designar, por meio de Portaria publicada em Boletim Interno, agentes para Fiscalização e para a Comissão de Recebimento.",
+      "II. É atribuição do Ordenador de Despesas aprovar mensalmente o Relatório de Situação Contratual apresentado pela fiscalização e encaminhá-lo para autuação no Processo Administrativo de Gestão da UG EXEC.",
+      "III. A instauração do Processo Administrativo de Apuração de Irregularidade (PAAI) é uma competência do Agente Diretor, após a comunicação formal do descumprimento contratual pela fiscalização.",
+      "IV. O Ordenador de Despesas justifica, no ato de designação, as substituições de agentes responsáveis pelas atividades de fiscalização ou de recebimento, sempre que os motivos forem diversos dos previstos na instrução."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I, II e IV."
+    ],
+    "correct_answer": "a",
+    "reference": "2.2.1, pág. 16; 2.3.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-033",
+    "question": "Em relação à competência para a aplicação da sanção de Declaração de Inidoneidade, a ICA 12-23 estabelece que ela será aplicada exclusivamente pelo Ministro de Estado da Defesa. Qual o procedimento para a remessa do PAAI da UG para este fim?",
+    "options": [
+      "Remessa direta da UG para o Ministro de Estado da Defesa.",
+      "Remessa via cadeia de comando.",
+      "Remessa por meio do Tribunal de Contas da União.",
+      "Remessa por meio do Ordenador de Despesas, com parecer do ACI."
+    ],
+    "correct_answer": "b",
+    "reference": "4.1.4, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Médio"
+  },
+  {
+    "id": "I12-118",
+    "question": "A Declaração de Inidoneidade, conforme a ICA 12-23, não poderá exceder quantos anos, nos termos da legislação vigente?",
+    "options": [
+      "2 anos.",
+      "3 anos.",
+      "Indefinido, até a reabilitação.",
+      "5 anos."
+    ],
+    "correct_answer": "d",
+    "reference": "Item 6.1.18, pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-037",
+    "question": "Em qual das situações abaixo a Assessoria de Risco Contratual (ARC) da UG Apoiadora emitirá parecer administrativo nos PAAI instaurados, a fim de assessorar o Ordenador de Despesas sobre a imposição de sanção administrativa, conforme a ICA 12-23?",
+    "options": [
+      "Apenas quando o fornecedor não apresentar defesa.",
+      "Ao receber a defesa do fornecedor.",
+      "Antes mesmo da instauração do PAAI.",
+      "Após a aplicação da sanção pelo Ordenador de Despesas."
+    ],
+    "correct_answer": "b",
+    "reference": "5.1.4, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-102",
+    "question": "De acordo com a ICA 12-23, o que se entende por 'Ilícito Administrativo'?",
+    "options": [
+      "Qualquer despesa não autorizada.",
+      "Conduta de agente da administração e/ou licitante (proponente) que infringe regras ou princípios de observância obrigatória em procedimentos licitatórios, dispensas e inexigibilidades de licitação, bem como em atas de registro de preços ou em contratos delas decorrentes.",
+      "Apenas atos de corrupção praticados por agentes públicos.",
+      "Atraso na entrega de bens ou prestação de serviços."
+    ],
+    "correct_answer": "b",
+    "reference": "1.2.22, pág. 12 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-117",
+    "question": "Para efeito da aplicação da sanção administrativa de suspensão temporária de participação em licitação e impedimento de contratar com a Administração, prevista na Lei nº 8.666/1993, a ICA 12-23 esclarece o significado do termo “Administração”. A quem este termo se refere?",
+    "options": [
+      "Apenas ao Comando da Aeronáutica.",
+      "Aos Comandos Militares (Marinha, Exército e Aeronáutica).",
+      "A toda a Administração Pública Federal.",
+      "A União, Estados, Distrito Federal e Municípios."
+    ],
+    "correct_answer": "b",
+    "reference": "Item 6.1.13, pág. 24 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-096",
+    "question": "No contexto da ICA 12-23, qual o significado de 'Autoridade Superior'?",
+    "options": [
+      "Qualquer autoridade com poder de decisão sobre contratos.",
+      "O Comandante da Aeronáutica.",
+      "O Ministro de Estado da Defesa.",
+      "A autoridade situada em posição hierárquica imediatamente acima daquela que decide, seja por vínculo de cargo, encargo ou comissão."
+    ],
+    "correct_answer": "d",
+    "reference": "1.2.9, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-011",
+    "question": "Na estrutura da Assessoria de Risco Contratual (ARC), o Chefe da ARC poderá acumular outras funções, exceto qual das seguintes, de acordo com a ICA 12-23?",
+    "options": [
+      "Gestor de Risco Contratual da UG.",
+      "Agente de Controle Interno (ACI).",
+      "Um Oficial da Unidade.",
+      "Um Graduado da Unidade."
+    ],
+    "correct_answer": "b",
+    "reference": "3.2.2, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Fácil"
+  },
+  {
+    "id": "I12-116",
+    "question": "A ICA 12-23 estabelece que a contratada deve comprovar o recolhimento/quitação das multas no prazo de 5 (cinco) dias úteis, contados da data da notificação do ato que as impuser. O que deve ter ocorrido antes do início da contagem desse prazo?",
+    "options": [
+      "A exaustão de todos os recursos administrativos e do direito de ampla defesa.",
+      "Apenas a exaustão dos recursos administrativos.",
+      "Apenas a notificação do ato.",
+      "O desconto do valor da garantia contratual."
+    ],
+    "correct_answer": "a",
+    "reference": "Item 6.1.6, pág. 23 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-041",
+    "question": "A ICA 12-23 estabelece as competências para a aplicação de sanções administrativas. Considere as situações abaixo:",
+    "items": [
+      "I. A fiscalização do contrato toma conhecimento de um descumprimento contratual e comunica formalmente o fato diretamente ao Ministro de Estado da Defesa para aplicação da sanção cabível.",
+      "II. O Ordenador de Despesas da UG signatária do instrumento contratual decide, verbalmente, pela instauração de um Processo Administrativo de Apuração de Irregularidade (PAAI).",
+      "III. Em uma UG Apoiada, a autuação e indexação de documentos do PAAI são realizadas pela Assessoria de Risco Contratual (ARC).",
+      "IV. A autoridade superior que julgará recursos contra sanções de advertência ou multa é o superior imediato da autoridade que as impôs inicialmente."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das situações acima representa(m) um procedimento **INCORRETO** ou uma competência **MAL ATRIBUÍDA**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I, II e III."
+    ],
+    "correct_answer": "d",
+    "reference": "4.1.1, pág. 19; 4.1.2, pág. 19; 4.1.3, pág. 19; 4.1.5, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Difícil"
+  },
+  {
+    "id": "I12-121",
+    "question": "De acordo com a ICA 12-23, associe as colunas relacionando as sanções de Suspensão Temporária de participação em licitação e impedimento de contratar com a Administração (Lei nº 8.666/1993) com as respectivas gradações e condições.",
+    "options": [
+      "(3); (1); (2); (1).",
+      "(2); (3); (1); (2).",
+      "(1); (2); (3); (3).",
+      "(3); (2); (1); (1)."
+    ],
+    "pairs": [
+      {
+        "header": "Gradação de Sanção (Suspensão Temporária - Lei 8.666/93)",
+        "items": [
+          "1. Por até 3 meses.",
+          "2. Por até 6 meses.",
+          "3. Por até 12 meses."
+        ]
+      },
+      {
+        "header": "Condição",
+        "items": [
+          "Na desistência de proposta, sem que haja justo motivo superveniente.",
+          "Na aplicação de duas sanções administrativas de multa no mesmo Processo Administrativo de Gestão (PAG).",
+          "Quando a contratada retardar imotivadamente o fornecimento dos bens ou a execução do serviço ou obra, que implique em rescisão contratual.",
+          "Na reincidência da prática de ilícito sancionável na forma das alíneas “a” e “b” do item 6.1.12, em prazo inferior a 24 (vinte e quatro) meses."
+        ]
+      }
+    ],
+    "correct_answer": "a",
+    "reference": "Itens 6.1.12 alíneas 'b', 'c', 'd', pág. 24 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-122",
+    "question": "De acordo com a ICA 12-23, associe as colunas relacionando as sanções de Impedimento de licitar e contratar com a União (Lei nº 10.520/2002) com as respectivas gradações e condições.",
+    "options": [
+      "(2); (3); (1); (1).",
+      "(1); (2); (3); (2).",
+      "(3); (1); (2); (3).",
+      "(1); (3); (2); (1)."
+    ],
+    "pairs": [
+      {
+        "header": "Gradação de Sanção (Impedimento de licitar e contratar com a União - Lei 10.520/02)",
+        "items": [
+          "1. Por até 3 meses.",
+          "2. Por até 6 meses.",
+          "3. Por até 2 anos."
+        ]
+      },
+      {
+        "header": "Condição",
+        "items": [
+          "No descumprimento, durante a execução de pregão, dos requisitos de habilitação, tendo declarado ou registrado no COMPRASNET previamente que os atendia.",
+          "Na falta de apresentação de garantia contratual, nos termos do edital da licitação.",
+          "A licitante que, convocada dentro do prazo de validade da sua proposta, não celebrar o contrato ou deixar de entregar documentação exigida.",
+          "Na interposição de recurso manifestamente protelatório."
+        ]
+      }
+    ],
+    "correct_answer": "b",
+    "reference": "Itens 6.1.14 alíneas 'b', 'c', 'e', pág. 25-26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-170",
+    "question": "Além da obrigatória designação de Agentes da Administração para Fiscalização e Recebimento de todos os contratos, em quais situações específicas a Administração da UG deverá obrigatoriamente designar uma Comissão para atuar na Fiscalização e Recebimento, conforme a ICA 12-23?",
+    "options": [
+      "Apenas para contratos de serviços contínuos de grande vulto.",
+      "Somente quando houver previsão expressa no edital de licitação.",
+      "Para as situações previstas no § 8º do art. 15 da Lei 8.666/93.",
+      "Quando o valor do contrato for inferior ao limite estabelecido para recebimento por agente único."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.4, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-144",
+    "question": "De acordo com a ICA 12-23, a multa por atraso na entrega de compras e na execução de serviços (exceto os de obras, serviços de engenharia e serviços contínuos) varia conforme o período. Qual é o percentual da multa a ser aplicada sobre o valor da obrigação, por dia corrido de atraso, para um período de atraso entre o 31º (trigésimo primeiro) dia até o 60º (sexagésimo) dia?",
+    "options": [
+      "0,1% (um décimo por cento).",
+      "0,2% (dois décimos por cento).",
+      "0,3% (três décimos por cento).",
+      "0,4% (quatro décimos por cento)."
+    ],
+    "correct_answer": "d",
+    "reference": "6.1.5.2 alínea 'b', pág. 22 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-142",
+    "question": "Conforme a ICA 12-23, no ato de Declaração de Inidoneidade, a Unidade Gestora (UG) que sugerir a aplicação da sanção deverá indicar no respectivo Processo Administrativo de Apuração de Irregularidade (PAAI), para fim de reabilitação do fornecedor, o valor a ser ressarcido. Além disso, o que mais deve ser indicado?",
+    "options": [
+      "As eventuais obrigações, com os acréscimos legais devidos.",
+      "Apenas o valor a ser ressarcido, sem outros detalhes.",
+      "O histórico completo de participação do fornecedor em outras licitações.",
+      "A data exata da futura reabilitação, sem possibilidade de alteração."
+    ],
+    "correct_answer": "a",
+    "reference": "6.1.19, pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-060",
+    "question": "A ICA 12-23 disciplina a Fiscalização e o Recebimento de bens e serviços. Em relação à designação de fiscais e membros de comissão, considere as afirmações:",
+    "items": [
+      "I. A Administração da UG deve designar Agentes da Administração para atuar na Fiscalização e/ou na Comissão de Recebimento de todos os contratos pactuados com a Organização.",
+      "II. Membros das Comissões de Recebimento e de Fiscalização devem ser substituídos em casos de afastamentos do serviço iguais ou superiores a 30 dias.",
+      "III. O Ordenador de Despesas pode ser designado para a Fiscalização de um contrato, desde que por delegação expressa do Agente Diretor.",
+      "IV. A definição da quantidade de membros de cada Comissão de Recebimento é de competência do Ordenador de Despesas da UG."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)** de acordo com a ICA 12-23?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas I, II e III.",
+      "Apenas II e IV.",
+      "Apenas I."
+    ],
+    "correct_answer": "a",
+    "reference": "2.1.1, pág. 15; 2.1.13, pág. 16; 2.1.10, pág. 16; 2.1.7, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-002",
+    "question": "Conforme a ICA 12-23, qual Agente da Administração tem a competência de designar, por meio de Portaria publicada em Boletim Interno, os Fiscais (titular e suplente) ou os integrantes de Comissão de Fiscalização para os contratos firmados pela UG?",
+    "options": [
+      "Ordenador de Despesas.",
+      "Agente de Controle Interno (ACI).",
+      "Agente Diretor da UG.",
+      "Gestor de Finanças."
+    ],
+    "correct_answer": "c",
+    "reference": "2.2.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-126",
+    "question": "A ICA 12-23 define o que se entende por comportamento inidôneo. Qual das opções abaixo corresponde a essa definição?",
+    "options": [
+      "A conduta intencional de tentar enganar ou corromper a Administração, ou qualquer de seus agentes, para obter vantagem indevida.",
+      "A falha em concluir a entrega do bem ou da prestação do serviço de acordo com as especificações técnicas.",
+      "O atraso imotivado no fornecimento de bens que implique em rescisão contratual.",
+      "A perturbação de qualquer ato da sessão pública da licitação."
+    ],
+    "correct_answer": "a",
+    "reference": "Item 6.1.16, pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-076",
+    "question": "Todas as UG EXEC deverão instituir em sua estrutura regimental a Assessoria de Risco Contratual (ARC). Qual das seguintes funções o Chefe da ARC **NÃO** poderá acumular?",
+    "options": [
+      "Gestor de Risco Contratual.",
+      "Oficial da estrutura da Unidade.",
+      "Pregoeiro.",
+      "Graduado ou servidor civil assemelhado."
+    ],
+    "correct_answer": "c",
+    "reference": "3.2.2, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Fácil"
+  },
+  {
+    "id": "I12-092",
+    "question": "A ICA 12-23 estabelece que o Ordenador de Despesas (titular ou delegado) da UG deve assegurar o direito ao contraditório e à ampla defesa à contratada ao instaurar o PAAI e aplicar sanções. Qual das seguintes afirmações está correta sobre esses princípios?",
+    "options": [
+      "A Ampla Defesa consiste apenas na apresentação de defesa escrita.",
+      "O Contraditório impõe a condução dialética do processo, com igual direito de oposição da defesa a todo ato da acusação.",
+      "O Ordenador de Despesas pode limitar o direito de defesa em casos de urgência.",
+      "Ampla Defesa e Contraditório são conceitos idênticos e aplicáveis apenas a processos judiciais."
+    ],
+    "correct_answer": "b",
+    "reference": "1.2.5.2, pág. 10; 1.2.13, pág. 11; 2.3.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Médio"
+  },
+  {
+    "id": "I12-073",
+    "question": "Conforme a ICA 12-23, o acompanhamento permanente das contratações será exercido no interesse exclusivo de quem?",
+    "options": [
+      "Da empresa contratada.",
+      "Do COMAER (Comando da Aeronáutica).",
+      "Do Fiscal do Contrato.",
+      "Da Unidade Gestora Apoiada."
+    ],
+    "correct_answer": "b",
+    "reference": "1.2.1.2, pág. 9 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-094",
+    "question": "A notificação para defesa prévia no PAAI deve conter a fixação do prazo para defesa. Qual a consequência se as razões de defesa apresentadas não forem acolhidas pelo Ordenador de Despesas (titular ou delegado) da UG?",
+    "options": [
+      "O processo será encaminhado automaticamente para recurso.",
+      "O Ordenador de Despesas deverá solicitar a opinião da Assessoria de Risco Contratual (ARC) novamente.",
+      "O fornecedor terá um novo prazo para apresentar outra defesa.",
+      "O Ordenador de Despesas decidirá por despacho escrito, justificando a improcedência da defesa e os dispositivos legais."
+    ],
+    "correct_answer": "d",
+    "reference": "5.1.6, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-161",
+    "question": "De acordo com a ICA 12-23, quem é o responsável por definir a quantidade de membros de cada Comissão de Recebimento, respeitado o mínimo estabelecido na instrução?",
+    "options": [
+      "O Ordenador de Despesas da UG.",
+      "O Agente de Controle Interno (ACI) da UG.",
+      "A Administração da UG signatária do termo de contrato ou instrumento equivalente, por ato de seu respectivo Agente Diretor.",
+      "A Fiscalização do contrato."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.7, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-081",
+    "question": "De acordo com a ICA 12-23, qual órgão do Comando da Aeronáutica deve ter a Assessoria de Risco Contratual (ARC) instituída em sua estrutura regimental?",
+    "options": [
+      "Todas as Unidades Gestoras (UG) Credoras.",
+      "Todas as Unidades Gestoras (UG) Apoiadas.",
+      "Todas as Unidades Gestoras (UG) Executoras.",
+      "Apenas as Unidades Gestoras com alto volume de contratos."
+    ],
+    "correct_answer": "c",
+    "reference": "3.1, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Fácil"
+  },
+  {
+    "id": "I12-152",
+    "question": "Associe as colunas relacionando as competências com a respectiva autoridade, conforme a ICA 12-23.",
+    "options": [
+      "(2); (1); (3).",
+      "(1); (3); (2).",
+      "(3); (2); (1).",
+      "(1); (2); (3)."
+    ],
+    "pairs": [
+      {
+        "header": "Autoridade",
+        "items": [
+          "1. Agente Diretor da UG",
+          "2. Ordenador de Despesas (titular ou delegado)",
+          "3. Agente de Controle Interno (ACI)"
+        ]
+      },
+      {
+        "header": "Competência",
+        "items": [
+          "( ) Instaurar o PAAI e aplicar sanções administrativas à contratada, assegurando o contraditório e a ampla defesa.",
+          "( ) Designar, por meio de Portaria publicada em Boletim Interno, agentes de seu efetivo qualificados e disponíveis para o exercício das atividades de Fiscal e de integrantes de Comissão de Fiscalização.",
+          "( ) Conferir a exatidão dos dados lançados no Relatório de Situação Contratual da UG EXEC, observando o vencimento dos prazos e autuando-o no Processo Administrativo de Gestão (PAG)."
+        ]
+      }
+    ],
+    "correct_answer": "a",
+    "reference": "2.2.1, pág. 16; 2.3.1, pág. 16; 2.4.2, pág. 17 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-057",
+    "question": "A ICA 12-23 estabelece que a instauração do PAAI se dá pelo despacho motivado do Ordenador de Despesas. Considere a situação em que um fornecedor recebe uma notificação para defesa prévia no PAAI. Quais as consequências se ele não apresentar a defesa?",
+    "items": [
+      "I. O não atendimento à notificação implica no reconhecimento automático da veracidade dos fatos imputados.",
+      "II. O fornecedor perde o direito à ampla defesa, não podendo mais se manifestar no processo.",
+      "III. A Administração poderá prosseguir com a aplicação da sanção, mas a não apresentação da defesa não prejudica o direito de ampla defesa do fornecedor, nem o reconhecimento da veracidade dos fatos.",
+      "IV. O Ordenador de Despesas deverá arquivar o PAAI imediatamente, por falta de manifestação do fornecedor."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das afirmações está(ão) **CORRETA(S)** em relação às consequências da não apresentação da defesa?",
+    "options": [
+      "Apenas I.",
+      "Apenas III.",
+      "Apenas I e IV.",
+      "Apenas II e III."
+    ],
+    "correct_answer": "b",
+    "reference": "5.1.3, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Difícil"
+  },
+  {
+    "id": "I12-067",
+    "question": "A ICA 12-23 estabelece que a Assessoria de Risco Contratual (ARC) será subordinada diretamente ao Ordenador de Despesas da UG e que o Chefe da ARC poderá acumular outras funções, exceto algumas. Qual das seguintes situações hipotéticas está **EM CONFORMIDADE** com as regras de acumulação de funções para o Chefe da ARC?",
+    "options": [
+      "O Chefe da ARC também é o Pregoeiro responsável por uma nova licitação na UG.",
+      "O Chefe da ARC é designado Agente de Controle Interno (ACI) da UG para o período de um ano.",
+      "O Chefe da ARC acumula a função de Fiscal de Contrato para um novo contrato de serviços contínuos.",
+      "O Chefe da ARC atua como Gestor de Risco Contratual da UG, sem acumular nenhuma das funções explicitamente proibidas."
+    ],
+    "correct_answer": "d",
+    "reference": "3.2.2, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Difícil"
+  },
+  {
+    "id": "I12-114",
+    "question": "De acordo com a ICA 12-23, a multa por atraso na entrega de compras e na execução de serviços (exceto obras, serviços de engenharia e serviços contínuos) possui diferentes percentuais. Qual é o percentual da multa por dia corrido de atraso para um período de atraso de até 30 (trinta) dias?",
+    "options": [
+      "0,1%.",
+      "0,4%.",
+      "0,3%.",
+      "0,2%."
+    ],
+    "correct_answer": "d",
+    "reference": "Item 6.1.5.2 alínea 'a', pág. 22 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-163",
+    "question": "De acordo com a ICA 12-23, a quem todo agente da administração, ao tomar conhecimento de descumprimento ou de inadimplemento de obrigação contratual, deverá comunicar formalmente o fato, inicialmente?",
+    "options": [
+      "Ao Ordenador de Despesas (titular ou delegado) da UG.",
+      "Ao Agente de Controle Interno (ACI).",
+      "À fiscalização do contrato.",
+      "Diretamente ao Ministro de Estado da Defesa."
+    ],
+    "correct_answer": "c",
+    "reference": "4.1.1, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Fácil"
+  },
+  {
+    "id": "I12-029",
+    "question": "A notificação para defesa prévia no PAAI, segundo a ICA 12-23, deve conter a identificação completa do fornecedor, a finalidade da notificação e a exposição resumida dos fatos. Além disso, deve incluir:",
+    "options": [
+      "A cláusula do edital ou contratual inadimplida e o prazo para apresentação da defesa prévia.",
+      "A indicação de outras penalidades aplicadas no passado.",
+      "A sugestão de advogados para a defesa do fornecedor.",
+      "O histórico financeiro completo da empresa no COMPRASNET."
+    ],
+    "correct_answer": "a",
+    "reference": "5.1.2, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-070",
+    "question": "Conforme a ICA 12-23, qual o mínimo de membros para a Comissão de Recebimento de Material ou Serviço?",
+    "options": [
+      "Três membros.",
+      "Dois membros.",
+      "Quatro membros.",
+      "Cinco membros."
+    ],
+    "correct_answer": "a",
+    "reference": "1.2.12, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-120",
+    "question": "Em que situação a contratada poderá estar sujeita à aplicação de multa de 10% (dez por cento) do valor do contrato, conforme a ICA 12-23?",
+    "options": [
+      "Quando a contratada der causa à rescisão contratual.",
+      "Quando impedir ou dificultar os trabalhos da Fiscalização.",
+      "Quando atrasar o fornecimento por até 30 dias corridos.",
+      "Quando não apresentar garantia contratual."
+    ],
+    "correct_answer": "a",
+    "reference": "Item 6.1.5.3 alínea 'c', pág. 23 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-008",
+    "question": "Conforme a ICA 12-23, quem aplica a sanção administrativa de Declaração de Inidoneidade?",
+    "options": [
+      "O Ordenador de Despesas da UG.",
+      "O Agente Diretor da UG.",
+      "O Ministro de Estado da Defesa.",
+      "O Tribunal de Contas da União."
+    ],
+    "correct_answer": "c",
+    "reference": "4.1.4, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Fácil"
+  },
+  {
+    "id": "I12-045",
+    "question": "Em relação à competência do Ordenador de Despesas (titular ou delegado) da UG signatária do instrumento contratual, qual das seguintes ações está correta, segundo a ICA 12-23?",
+    "options": [
+      "Aprovar, mensalmente, o Relatório de Situação Contratual, encaminhando-o para autuação no Processo Administrativo de Gestão da UG EXEC.",
+      "Realizar a reunião de iniciação para cada contrato pactuado, acompanhado do chefe da ARC.",
+      "Designar, por meio de Portaria, os Agentes de Controle Interno.",
+      "Decidir, em caráter recursal, sobre a Declaração de Inidoneidade."
+    ],
+    "correct_answer": "a",
+    "reference": "2.3.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-048",
+    "question": "No Processo Administrativo de Apuração de Irregularidade (PAAI), o Ordenador de Despesas (titular ou delegado) da UG aplicará a sanção administrativa por meio de qual tipo de documento, conforme a ICA 12-23?",
+    "options": [
+      "Memorando interno.",
+      "Despacho motivado com cópia do contrato.",
+      "Documento formal, conforme modelo constante no MCA 172-3 (digital).",
+      "Termo de Rescisão Contratual."
+    ],
+    "correct_answer": "c",
+    "reference": "5.1.7, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-065",
+    "question": "Em relação à nomeação de Agentes da Administração para Fiscalização e Recebimento, a ICA 12-23 estabelece que a Administração da UG (Apoiada ou Apoiadora) deverá, obrigatoriamente, designá-los para todos os contratos pactuados com a Organização. Qual das seguintes afirmações sobre a composição da Comissão de Recebimento está **CORRETA**?",
+    "items": [
+      "I. A quantidade de membros da Comissão de Recebimento é fixa em três, independentemente da UG ou do contrato.",
+      "II. Os integrantes das comissões de recebimento podem pertencer a quaisquer Organizações da Guarnição de Aeronáutica onde a OM signatária se localizar.",
+      "III. Em nenhuma hipótese, as comissões de recebimento podem ser compostas exclusivamente por agentes alheios ao efetivo da UG signatária do instrumento.",
+      "IV. O Ordenador de Despesas da UG é o responsável por definir a quantidade de membros da Comissão de Recebimento."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas II e III.",
+      "Apenas I e II.",
+      "Apenas III e IV.",
+      "Apenas I, II e III."
+    ],
+    "correct_answer": "a",
+    "reference": "2.1.7, pág. 15; 2.1.8, pág. 15; 2.1.9, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-110",
+    "question": "Conforme a ICA 12-23, qual o prazo para que as Comissões de Recebimento e de Fiscalização, em casos de afastamentos do serviço, deverão ser substituídas?",
+    "options": [
+      "Afastamentos de 15 dias ou mais.",
+      "Somente em afastamentos permanentes.",
+      "Afastamentos de 60 dias ou mais.",
+      "Afastamentos de 30 dias ou mais."
+    ],
+    "correct_answer": "d",
+    "reference": "2.1.13, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-175",
+    "question": "A ICA 12-23 detalha os procedimentos para a designação de agentes na fiscalização e recebimento, considerando a complexidade das relações entre as Unidades Gestoras. Considere as seguintes situações:",
+    "items": [
+      "I. Em um contrato de fornecimento de bens, o Agente Diretor da UG designa um Fiscal titular e um Fiscal suplente, ambos de seu efetivo e qualificados, por meio de Portaria publicada em Boletim Interno.",
+      "II. Os integrantes de uma Comissão de Recebimento, devido à sua experiência inestimável, são reconduzidos integralmente para um novo período de mais de um ano, sem que haja qualquer justificativa formal da UG signatária no ato da designação.",
+      "III. Em uma Unidade Gestora Apoiada, cujos contratos de serviços contínuos são de interesse compartilhado com a UG Executora, a Fiscalização e o Recebimento são realizados exclusivamente por agentes da UG Executora.",
+      "IV. Um Ordenador de Despesas, em caráter excepcional e devido à escassez de pessoal, é designado para integrar uma Comissão de Recebimento de material de alto valor, recebendo delegação específica para essa função."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das situações acima representa(m) um procedimento **CORRETO**?",
+    "options": [
+      "Apenas I.",
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I, III e IV."
+    ],
+    "correct_answer": "a",
+    "reference": "2.1.3, pág. 15; 2.1.10, pág. 16; 2.1.12, pág. 16; 2.1.14, pág. 16; 2.2.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-077",
+    "question": "Qual autoridade é responsável por aprovar, mensalmente, o Relatório de Situação Contratual, apresentado pela fiscalização, encaminhando-o para autuação no Processo Administrativo de Gestão da UG EXEC, conforme a ICA 12-23?",
+    "options": [
+      "O Agente Diretor.",
+      "O Agente de Controle Interno.",
+      "O Chefe da Assessoria de Risco Contratual (ARC).",
+      "O Ordenador de Despesas (titular ou delegado) da UG."
+    ],
+    "correct_answer": "d",
+    "reference": "2.3.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-062",
+    "question": "A ICA 12-23 detalha a criação e estrutura da Assessoria de Risco Contratual (ARC). Considere a seguinte situação hipotética: O Agente Diretor de uma UG decide que, devido à pequena quantidade de contratos na Unidade, a ARC será composta por um Oficial e um Graduado. Além disso, o Oficial designado para chefiar a ARC acumulará a função de Pregoeiro. Qual(is) aspecto(s) desta situação está(ão) em desacordo com as diretrizes da ICA 12-23?",
+    "items": [
+      "I. A composição mínima da ARC não foi respeitada.",
+      "II. O Chefe da ARC está acumulando uma função não permitida.",
+      "III. A ARC deveria ser instituída apenas em UG Apoiadora, e não em qualquer UG Executora.",
+      "IV. A definição da composição da ARC não é competência do Agente Diretor."
+    ],
+    "closing_statement": "Qual(is) afirmação(ões) identifica(m) corretamente o(s) desacordo(s)?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas I e II.",
+      "Apenas III e IV."
+    ],
+    "correct_answer": "c",
+    "reference": "3.3, pág. 18; 3.2.2, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Difícil"
+  },
+  {
+    "id": "I12-123",
+    "question": "A ICA 12-23 detalha os procedimentos para o recolhimento de multas. Na hipótese de a multa não ser recolhida no prazo estipulado, qual a ordem de prioridade para o desconto do seu valor?",
+    "options": [
+      "Primeiramente dos pagamentos eventualmente devidos pela Administração e, se insuficiente, da garantia contratual.",
+      "Primeiramente da garantia contratual e, se esta não for suficiente, dos pagamentos eventualmente devidos pela Administração ou, ainda, cobrada judicialmente.",
+      "Diretamente por cobrança judicial, sem afetar a garantia ou pagamentos devidos.",
+      "Apenas da garantia contratual, não sendo possível a cobrança judicial ou o desconto de pagamentos."
+    ],
+    "correct_answer": "b",
+    "reference": "Item 6.1.7, pág. 23 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-006",
+    "question": "Segundo a ICA 12-23, os fiscais de contrato devem ter suplentes para substituí-los em quais situações?",
+    "options": [
+      "Apenas em afastamentos superiores a 60 dias.",
+      "Em todos os seus afastamentos.",
+      "Somente em casos de licença médica.",
+      "Apenas quando o Ordenador de Despesas autorizar expressamente."
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.2, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-069",
+    "question": "No âmbito do Processo Administrativo de Apuração de Irregularidade (PAAI), de acordo com a ICA 12-23, qual o procedimento que deve ser adotado se o fornecedor não apresentar defesa ou se as razões de defesa apresentadas não forem acolhidas pelo Ordenador de Despesas (titular ou delegado) da UG?",
+    "options": [
+      "O processo será imediatamente arquivado.",
+      "O Ordenador de Despesas deverá solicitar um novo parecer da Assessoria de Risco Contratual (ARC).",
+      "O Ordenador de Despesas decidirá por despacho escrito, contendo a exposição resumida dos fatos alegados, a análise da argumentação e os dispositivos legais que fundamentam sua decisão.",
+      "A sanção administrativa será aplicada automaticamente, sem a necessidade de despacho."
+    ],
+    "correct_answer": "c",
+    "reference": "5.1.6, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Difícil"
+  },
+  {
+    "id": "I12-053",
+    "question": "No Processo Administrativo de Apuração de Irregularidade (PAAI), o que acontece se o fornecedor inadimplente corrigir a falha que lhe foi imputada e realizar o ressarcimento pelos prejuízos eventualmente causados?",
+    "options": [
+      "O PAAI será automaticamente encerrado sem a necessidade de despacho.",
+      "O PAAI poderá ser arquivado mediante despacho fundamentado do Ordenador de Despesas (titular ou delegado) da UG.",
+      "O Ordenador de Despesas deverá encaminhar o caso para a Autoridade Superior para decisão final.",
+      "A correção da falha não impede a aplicação da sanção, apenas atenua a penalidade."
+    ],
+    "correct_answer": "b",
+    "reference": "5.1.5, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-018",
+    "question": "A ICA 12-23 determina que o recebimento de bens e serviços de valor inferior ao estabelecido no § 8º do art. 15 da Lei 8.666/93 poderá ser realizado por agente designado. Qual a condição para que este agente possa realizar o recebimento?",
+    "options": [
+      "Ser o Ordenador de Despesas da UG.",
+      "Reunir os atributos necessários à avaliação criteriosa do objeto.",
+      "Ser um Fiscal de Contrato com mais de 5 anos de experiência.",
+      "Ter formação superior em Engenharia ou Direito."
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.5, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-134",
+    "question": "Em relação ao Processo Administrativo de Apuração de Irregularidade (PAAI), a ICA 12-23 prevê uma hipótese de arquivamento. Em qual situação o PAAI poderá ser arquivado?",
+    "options": [
+      "Apenas se o fornecedor não apresentar defesa prévia no prazo estipulado.",
+      "Se o Ordenador de Despesas não acolher as razões de defesa apresentadas pelo fornecedor.",
+      "Caso o fornecedor inadimplente corrija a falha que lhe foi imputada e realize o ressarcimento pelos prejuízos eventualmente causados.",
+      "Após o julgamento e decisão da Autoridade Superior em caráter recursal."
+    ],
+    "correct_answer": "c",
+    "reference": "Item 5.1.5, pág. 21 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-132",
+    "question": "Analise as situações hipotéticas abaixo, relativas à aplicação de sanções administrativas segundo a ICA 12-23:",
+    "items": [
+      "I. Uma empresa que se recusou a assinar o contrato dentro do prazo de validade de sua proposta foi sancionada com suspensão temporária por até 6 meses, nos termos da Lei nº 8.666/1993.",
+      "II. A falha na execução de um contrato que implicou em rescisão contratual resultou em impedimento de licitar e contratar com a União por até 3 anos, de acordo com a Lei nº 10.520/2002.",
+      "III. Uma contratada que paralisou o serviço sem justo motivo e sem prévia comunicação à Administração foi penalizada com suspensão temporária por até 24 meses, conforme a Lei nº 8.666/1993.",
+      "IV. Uma licitante que não mantiver a proposta foi sancionada com impedimento de licitar e contratar com a União por até 2 anos, de acordo com a Lei nº 10.520/2002."
+    ],
+    "closing_statement": "Considerando os critérios de dosimetria da ICA 12-23, qual(is) das situações descritas apresenta(m) a sanção aplicada de forma **CORRETA**?",
+    "options": [
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I, II e III.",
+      "I, II, III e IV."
+    ],
+    "correct_answer": "d",
+    "reference": "Itens 6.1.12 alíneas 'c', 'e', 6.1.14 alíneas 'f', 'e', pág. 24-26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-049",
+    "question": "Qual das seguintes competências pertence ao Agente Diretor da UG signatária do termo de contrato ou instrumento equivalente, conforme a ICA 12-23?",
+    "options": [
+      "Instaurar o PAAI e aplicar sanções administrativas à contratada.",
+      "Aprovar mensalmente o Relatório de Situação Contratual.",
+      "Conferir a exatidão dos dados lançados no Relatório de Situação Contratual.",
+      "Justificar as razões para a recondução integral de membros das Comissões de Recebimento em situações excepcionais."
+    ],
+    "correct_answer": "d",
+    "reference": "2.2.1, pág. 16; 2.1.14, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-021",
+    "question": "Associe as colunas relacionando as competências com as respectivas autoridades, de acordo com a ICA 12-23.",
+    "options": [
+      "(2); (1); (3).",
+      "(1); (3); (2).",
+      "(3); (2); (1).",
+      "(1); (2); (3)."
+    ],
+    "pairs": [
+      {
+        "header": "Autoridade",
+        "items": [
+          "1. Agente Diretor da UG",
+          "2. Ordenador de Despesas (titular ou delegado) da UG",
+          "3. Agente de Controle Interno (ACI) da UG"
+        ]
+      },
+      {
+        "header": "Competência",
+        "items": [
+          " ( ) Instaurar o PAAI e aplicar sanções administrativas à contratada.",
+          " ( ) Designar agentes para Fiscalização ou Comissão de Recebimento por meio de Portaria.",
+          " ( ) Realizar reunião de iniciação para cada contrato pactuado e conferir a exatidão dos dados lançados no Relatório de Situação Contratual."
+        ]
+      }
+    ],
+    "correct_answer": "a",
+    "reference": "2.2.1, pág. 16; 2.3.1, pág. 16; 2.4.1, pág. 16; 2.4.2, pág. 17 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-113",
+    "question": "Conforme a ICA 12-23, qual o prazo para a defesa prévia do interessado quando da aplicação de multa por inexecução total ou parcial do contrato?",
+    "options": [
+      "3 (três) dias úteis.",
+      "5 (cinco) dias corridos.",
+      "5 (cinco) dias úteis.",
+      "10 (dez) dias úteis."
+    ],
+    "correct_answer": "c",
+    "reference": "Item 6.1.4, pág. 21 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-034",
+    "question": "A ICA 12-23 detalha que a não apresentação da defesa pelo fornecedor, após a notificação no PAAI, não implica reconhecimento da veracidade dos fatos. O que mais essa não apresentação **NÃO** implica?",
+    "options": [
+      "A perda ou a renúncia ao direito de ampla defesa.",
+      "A aplicação imediata da sanção administrativa.",
+      "A dispensa da necessidade de análise dos fatos pela Administração.",
+      "A impossibilidade de arquivamento do PAAI."
+    ],
+    "correct_answer": "a",
+    "reference": "5.1.3, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-036",
+    "question": "A ICA 12-23 estabelece que o Ordenador de Despesas (titular ou por delegação), o Agente de Controle Interno (titular ou delegado), o Gestor de Licitações e o Gestor de Finanças não deverão ser designados para a Fiscalização ou para integrar a Comissão de Recebimento. Qual a lógica por trás dessa restrição?",
+    "options": [
+      "Evitar sobrecarga de trabalho para esses cargos.",
+      "Garantir a segregação de funções e evitar conflitos de interesse.",
+      "Reduzir o número de agentes envolvidos na fiscalização.",
+      "Simplificar o processo de designação de fiscais."
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.10, pág. 16; 111, 103 [Perfil do Examinador: ICA 12-23 e Sanções Contratuais]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-141",
+    "question": "De acordo com a ICA 12-23, associe as colunas relacionando as sanções com as respectivas condições iniciais de aplicação.",
+    "options": [
+      "(1); (2); (3); (4).",
+      "(4); (3); (2); (1).",
+      "(2); (1); (4); (3).",
+      "(3); (4); (1); (2)."
+    ],
+    "pairs": [
+      {
+        "header": "Sanção",
+        "items": [
+          "1. Advertência",
+          "2. Suspensão Temporária (Lei nº 8.666/1993) – por até 30 dias",
+          "3. Suspensão Temporária (Lei nº 8.666/1993) – por até 3 meses",
+          "4. Impedimento de Licitar e Contratar com a União (Lei nº 10.520/2002) – por até 3 meses"
+        ]
+      },
+      {
+        "header": "Condição Inicial",
+        "items": [
+          "( ) No descumprimento do prazo fixado para adoção de medidas corretivas, quando da aplicação da sanção de advertência.",
+          "( ) Na desistência de proposta, sem que haja justo motivo superveniente.",
+          "( ) No atraso na entrega, substituição de bens ou de nota fiscal com incorreção, ou não cumprimento de orientações da fiscalização no prazo de até 48h.",
+          "( ) Na solicitação de sua própria desclassificação ou inabilitação, após a fase de lances, no pregão."
+        ]
+      }
+    ],
+    "correct_answer": "c",
+    "reference": "6.1.1, pág. 21; 6.1.12 alíneas 'a', 'b', pág. 24; 6.1.14 alínea 'b', pág. 25 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-119",
+    "question": "De acordo com a ICA 12-23, o que se entende por “falhar na execução do contrato”?",
+    "options": [
+      "Não concluir a entrega do bem ou da prestação do serviço de acordo com as especificações técnicas contidas no contrato administrativo.",
+      "Comportar-se de modo inidôneo ou cometer fraude fiscal.",
+      "Causar o retardamento injustificado da execução do contrato.",
+      "Apresentar documentação ou informações falsas no processo licitatório."
+    ],
+    "correct_answer": "a",
+    "reference": "Item 6.1.15, pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-156",
+    "question": "A ICA 12-23 detalha as competências e restrições para a designação de agentes para Fiscalização ou Comissão de Recebimento. Considere as seguintes situações hipotéticas:",
+    "items": [
+      "I. Uma Comissão de Recebimento foi composta por apenas dois membros, ambos pertencentes à UG signatária, para o recebimento definitivo de uma obra de grande vulto.",
+      "II. O Gestor de Licitações da UG 'Alfa' foi designado para integrar a Comissão de Recebimento de um contrato, após sua participação na fase de habilitação da licitação.",
+      "III. O Agente de Controle Interno (ACI) da UG 'Beta' foi nomeado Fiscal Titular de um contrato de aquisição de bens, devido à sua experiência anterior em auditoria.",
+      "IV. Uma Comissão de Recebimento é composta exclusivamente por agentes pertencentes a Organizações Militares diferentes da UG signatária do instrumento, justificado pela alta especialização técnica necessária para o objeto do contrato."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das situações acima representa(m) uma designação **NÃO PERMITIDA** ou um procedimento **INCORRETO**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas II e IV.",
+      "Apenas I, III e IV.",
+      "Todas as situações, I, II, III e IV."
+    ],
+    "correct_answer": "d",
+    "reference": "1.2.12, pág. 11; 2.1.4, pág. 15; 2.1.9, pág. 15; 2.1.10, pág. 16; 2.1.11, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-007",
+    "question": "De acordo com a ICA 12-23, qual a finalidade da Assessoria de Risco Contratual (ARC)?",
+    "options": [
+      "Realizar procedimentos licitatórios.",
+      "Acompanhar a evolução do adimplemento dos objetos contratados e instruir o PAAI.",
+      "Gerenciar recursos financeiros da Unidade Gestora.",
+      "Aplicar sanções administrativas diretamente aos fornecedores."
+    ],
+    "correct_answer": "b",
+    "reference": "1.2.6, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-153",
+    "question": "Conforme a ICA 12-23, os termos contratuais diretamente relacionados à missão de apoio da UG EXEC (apoiadora), cujo objeto também seja de interesse da UG Apoiada, serão fiscalizados e recebidos por:",
+    "options": [
+      "Agentes da UG Apoiada, exclusivamente, devido à sua proximidade com o objeto do contrato.",
+      "Agentes da UG EXEC, podendo estes atuarem em conjunto com os Agentes da UG Apoiada.",
+      "Agentes de qualquer UG da Guarnição de Aeronáutica, desde que previamente aprovados pelo Comando da Aeronáutica.",
+      "Apenas a Comissão de Fiscalização designada pela UG Apoiadora, sem a participação de agentes da UG Apoiada."
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.3, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-088",
+    "question": "A ICA 12-23 estabelece que a Assessoria de Risco Contratual (ARC) substitui a Assessoria de Contas a Pagar. Qual a razão expressa para essa substituição?",
+    "options": [
+      "Em razão de melhor adequabilidade do título às funções por ela exercidas.",
+      "Para reduzir a carga de trabalho do setor de finanças.",
+      "Para centralizar todas as atividades relacionadas a pagamentos.",
+      "Devido a uma exigência legal externa ao Comando da Aeronáutica."
+    ],
+    "correct_answer": "a",
+    "reference": "7.7, pág. 27 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES FINAIS, Médio"
+  },
+  {
+    "id": "I12-066",
+    "question": "A ICA 12-23 define as competências do Agente Diretor e do Ordenador de Despesas. Qual das situações abaixo representa um exercício de competência **INCORRETO** ou **NÃO ATRIBUÍDO** a essas autoridades, conforme a instrução?",
+    "items": [
+      "I. O Agente Diretor da UG publica em Boletim Interno a designação de um Fiscal Titular e seu suplente para um novo contrato.",
+      "II. O Ordenador de Despesas da UG instaura um Processo Administrativo de Apuração de Irregularidade (PAAI) contra uma contratada inadimplente, assegurando o contraditório e a ampla defesa.",
+      "III. O Agente Diretor justifica as razões para a substituição de agentes de fiscalização por motivos diversos dos previstos na instrução, registrando essa justificativa no ato de designação.",
+      "IV. O Ordenador de Despesas aprova mensalmente o Relatório de Situação Contratual e o encaminha para autuação no Processo Administrativo de Gestão da UG Apoiada."
+    ],
+    "closing_statement": "Qual(is) afirmação(ões) descreve(m) uma situação **INCORRETA**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas III.",
+      "Nenhuma das afirmações está incorreta.",
+      "Apenas IV."
+    ],
+    "correct_answer": "d",
+    "reference": "2.2.1, pág. 16; 2.3.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-071",
+    "question": "A ICA 12-23 define o Fiscal como o Agente da Administração especificamente designado para atuar como representante da Unidade no acompanhamento e na fiscalização da execução de instrumento contratual. Em que situações é permitida a contratação de terceiros para assisti-lo e assessorá-lo?",
+    "options": [
+      "Em todas as situações, para otimizar o trabalho.",
+      "Apenas em casos de ausência do Fiscal.",
+      "Em situações em que o seu conhecimento técnico não seja suficiente para o exercício pleno do encargo.",
+      "Somente com aprovação do Ordenador de Despesas."
+    ],
+    "correct_answer": "c",
+    "reference": "1.2.19, pág. 12 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-167",
+    "question": "De acordo com a ICA 12-23, o Chefe da Assessoria de Risco Contratual (ARC), que também é o Gestor de Risco Contratual da UG, poderá acumular outras funções dentro da estrutura da Unidade, exceto quais das seguintes?",
+    "options": [
+      "Agente de Controle Interno e membro de Equipe de Apoio.",
+      "Oficial da Unidade e Graduado da Unidade.",
+      "Agente Diretor e Ordenador de Despesas.",
+      "Fiscal de Contrato e Gestor de Finanças."
+    ],
+    "correct_answer": "a",
+    "reference": "3.2.2, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Médio"
+  },
+  {
+    "id": "I12-173",
+    "question": "Sobre as competências e procedimentos na aplicação de sanções administrativas, a ICA 12-23 estabelece um fluxo claro. Considere as seguintes situações:",
+    "items": [
+      "I. Um agente da administração toma conhecimento de um descumprimento contratual e, para agilizar o processo, comunica formalmente o fato diretamente ao Ordenador de Despesas da UG para instauração do PAAI.",
+      "II. Em uma Unidade Gestora Apoiada (UG Apoiada), o Ordenador de Despesas decide que a autuação e indexação de documentos do PAAI serão realizadas pela Assessoria de Risco Contratual (ARC) da UG Apoiadora, para padronização.",
+      "III. O Ministro de Estado da Defesa é a autoridade exclusiva para aplicar a sanção de Declaração de Inidoneidade, procedimento que requer a remessa do PAAI da UG via cadeia de comando.",
+      "IV. Após a aplicação de uma sanção de multa pelo Ordenador de Despesas, o recurso interposto pela contratada é julgado pela Autoridade Superior imediata do Ordenador de Despesas."
+    ],
+    "closing_statement": "Qual(is) das situações acima descreve(m) um procedimento **CORRETO** de acordo com a ICA 12-23?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas III e IV.",
+      "Apenas I, III e IV.",
+      "Todas as situações, I, II, III e IV."
+    ],
+    "correct_answer": "b",
+    "reference": "4.1.1, pág. 19; 4.1.2, pág. 19; 4.1.3, pág. 19; 4.1.4, pág. 19; 4.1.5, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Difícil"
+  },
+  {
+    "id": "I12-003",
+    "question": "Segundo a ICA 12-23, a Assessoria de Risco Contratual (ARC) será subordinada diretamente a qual autoridade da Unidade Gestora?",
+    "options": [
+      "Ao Agente Diretor.",
+      "Ao Chefe do Setor de Licitações.",
+      "Ao Ordenador de Despesas (titular ou delegado).",
+      "Ao Agente de Controle Interno."
+    ],
+    "correct_answer": "c",
+    "reference": "3.2.1, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Fácil"
+  },
+  {
+    "id": "I12-133",
+    "question": "Considere as seguintes situações hipotéticas de descumprimento contratual e suas possíveis sanções, de acordo com a ICA 12-23:",
+    "items": [
+      "I. Uma contratada que, após ter recebido duas sanções de advertência e uma de multa no âmbito do COMAER no prazo de doze meses, tendo adotado as medidas corretivas no prazo determinado pela Administração, é penalizada com suspensão temporária por até 6 meses, conforme a Lei nº 8.666/1993.",
+      "II. A empresa 'Alfa' teve um atraso de 45 dias corridos na entrega de um serviço não contínuo. A multa aplicada foi de 0,4% sobre o valor da obrigação por dia corrido de atraso, referente ao período de 31º a 45º dia, e 0,2% para o período de até 30 dias.",
+      "III. Um fornecedor que solicitou sua própria desclassificação no pregão após a fase de lances foi sancionado com impedimento de licitar e contratar com a União por até 3 meses, nos termos da Lei nº 10.520/2002."
+    ],
+    "closing_statement": "Qual(is) das afirmações acima está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "correct_answer": "d",
+    "reference": "Itens 6.1.12 alínea 'c', 6.1.5.2, 6.1.14 alínea 'b', pág. 22, 25 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-086",
+    "question": "De acordo com a ICA 12-23, os integrantes das comissões de recebimento poderão pertencer a quaisquer Organizações da Guarnição de Aeronáutica em que se localizar a OM signatária. Entretanto, há uma restrição clara imposta. Qual é essa restrição?",
+    "options": [
+      "Não poderão resultar comissões compostas por mais de cinco membros de OMs diferentes.",
+      "Apenas membros da mesma OM podem compor a comissão para evitar conflitos de interesse.",
+      "A composição deve ser de pelo menos um membro da UG signatária e dois de outras OMs.",
+      "Não poderão resultar comissões compostas exclusivamente por agentes alheios ao efetivo da UG signatária do instrumento."
+    ],
+    "correct_answer": "d",
+    "reference": "2.1.9, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-072",
+    "question": "Qual é a Instrução que regula as atividades de acompanhamento, fiscalização contratual, recebimento de bens e serviços, e aplicação de sanções administrativas no Comando da Aeronáutica?",
+    "options": [
+      "Lei nº 8.666/1993.",
+      "ICA 12-23.",
+      "Decreto nº 6.834/2009.",
+      "Portaria nº 1.672/GC4."
+    ],
+    "correct_answer": "b",
+    "reference": "1.1, pág. 9 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-064",
+    "question": "A ICA 12-23 estabelece procedimentos para a instrução do Processo Administrativo de Apuração de Irregularidade (PAAI). Considere as seguintes afirmações sobre o processo de defesa:",
+    "items": [
+      "I. O não atendimento à notificação de defesa prévia implica reconhecimento da veracidade dos fatos imputados ao fornecedor.",
+      "II. Ao receber a defesa do fornecedor, a Assessoria de Risco Contratual (ARC) da UG Apoiadora emitirá parecer administrativo para assessorar o Ordenador de Despesas.",
+      "III. As razões de defesa deverão ser apresentadas por escrito e assinadas apenas pelo procurador da empresa, mesmo que haja sócio-administrador disponível.",
+      "IV. Se o Ordenador de Despesas não acolher as razões de defesa, ele deve decidir por despacho escrito, contendo a análise da argumentação e os dispositivos legais que fundamentam sua decisão."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)** de acordo com a ICA 12-23?",
+    "options": [
+      "Apenas I e III.",
+      "Apenas II, III e IV.",
+      "Apenas I, II e III.",
+      "Apenas II e IV."
+    ],
+    "correct_answer": "d",
+    "reference": "5.1.3, pág. 20; 5.1.4, pág. 20; 5.1.2, pág. 20; 5.1.6, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Difícil"
+  },
+  {
+    "id": "I12-012",
+    "question": "De acordo com a ICA 12-23, quem é o responsável por comunicar formalmente ao Ordenador de Despesas (titular ou delegado) da UG sobre o descumprimento ou inadimplemento de obrigação contratual?",
+    "options": [
+      "A fiscalização do contrato.",
+      "O próprio fornecedor.",
+      "O Agente de Controle Interno.",
+      "O Agente Diretor."
+    ],
+    "correct_answer": "a",
+    "reference": "4.1.1, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Fácil"
+  },
+  {
+    "id": "I12-158",
+    "question": "Analise as seguintes afirmações sobre as regras de composição e funcionamento das Comissões de Fiscalização e Recebimento, conforme a ICA 12-23:",
+    "items": [
+      "I. Uma Comissão de Fiscalização, para ser válida, deve ter composição mínima recomendada de três membros, permitida a contratação de terceiros para assisti-la e assessorá-la com informações pertinentes.",
+      "II. É estritamente proibido que membros de comissões de recebimento pertençam a Organizações Militares diferentes da UG signatária do contrato, pois devem ser exclusivos do efetivo da UG.",
+      "III. A recondução da totalidade dos membros de uma Comissão de Recebimento para um período subsequente é vedada, exceto em situações excepcionais de limitação de recursos humanos, devidamente justificadas pelo Agente Diretor no ato da designação.",
+      "IV. Integrantes das Comissões de Recebimento e de Fiscalização devem ser substituídos apenas se seus afastamentos do serviço forem superiores a 60 (sessenta) dias, para evitar descontinuidade nos trabalhos."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas I, III e IV.",
+      "Apenas II e IV.",
+      "Apenas I e III."
+    ],
+    "correct_answer": "d",
+    "reference": "1.2.11, pág. 11; 2.1.8, pág. 15; 2.1.9, pág. 15; 2.1.12, pág. 16; 2.1.13, pág. 16; 2.1.14, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-146",
+    "question": "Uma empresa contratada para a reforma de um hangar militar tem um prazo de 15 (quinze) dias úteis para a conclusão de uma etapa da obra, cujo valor correspondente é de R$ 40.000,00. A empresa entregou esta etapa com 45 (quarenta e cinco) dias corridos de atraso. De acordo com a ICA 12-23 e a Tabela 1 (Fator Progressivo de Correção), qual o valor da multa a ser aplicada?",
+    "options": [
+      "R$ 15.000,00.",
+      "R$ 16.000,00.",
+      "R$ 18.000,00.",
+      "R$ 20.000,00."
+    ],
+    "correct_answer": "c",
+    "reference": "6.1.5.1.1, pág. 21; Tabela 1, pág. 22 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-028",
+    "question": "De acordo com a ICA 12-23, se a Administração da UG Apoiada precisar autuar, indexar e juntar documentos do Processo Administrativo de Apuração de Irregularidade (PAAI), a quem competirá essa tarefa?",
+    "options": [
+      "À Assessoria de Risco Contratual (ARC) da UG Apoiada.",
+      "Ao Ordenador de Despesas da UG Apoiada.",
+      "Ao responsável pela condução do processo, conforme definição do Ordenador de Despesas.",
+      "Ao Agente de Controle Interno da UG Apoiada."
+    ],
+    "correct_answer": "c",
+    "reference": "4.1.3, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Médio"
+  },
+  {
+    "id": "I12-159",
+    "question": "Considere o caso da UG 'Ômega' que está prestes a designar agentes para novas funções. Qual(is) das situações abaixo representa(m) uma designação **PERMITIDA** de acordo com as regras de segregação de funções e competências da ICA 12-23?",
+    "items": [
+      "I. O Chefe da Assessoria de Risco Contratual (ARC) da UG 'Ômega' é designado para atuar como Fiscal de Contrato em um novo instrumento, dado seu conhecimento aprofundado em adimplemento contratual.",
+      "II. O Gestor de Finanças da UG é designado para a Comissão de Recebimento de bens de um contrato em que não esteve envolvido previamente na fase licitatória, para garantir a lisura financeira.",
+      "III. Um membro da Equipe de Apoio de uma licitação anterior é designado para a Fiscalização do contrato dela decorrente, visto que o Pregoeiro responsável pela licitação original não foi designado.",
+      "IV. Um Fiscal Técnico é designado para integrar a Comissão de Recebimento de um contrato de serviços, e também atua como suplente para outro Fiscal em um contrato diferente, respeitando os requisitos de qualificação."
+    ],
+    "closing_statement": "Qual(is) das situações acima representa(m) uma designação **PERMITIDA**?",
+    "options": [
+      "Apenas IV.",
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I, III e IV."
+    ],
+    "correct_answer": "a",
+    "reference": "2.1.1, pág. 15; 2.1.2, pág. 15; 2.1.10, pág. 16; 2.1.11, pág. 16; 3.2.2, pág. 18 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-149",
+    "question": "Analise as seguintes afirmações sobre a gradação da sanção por reincidência, conforme a ICA 12-23:",
+    "items": [
+      "I. A reincidência da prática de ilícito sancionável na forma das alíneas “a” e “b” do item 6.1.12 (Lei nº 8.666/1993), em prazo inferior a 24 (vinte e quatro) meses, pode levar à suspensão temporária por até 6 meses.",
+      "II. A reincidência da prática de inadimplemento sancionável na forma da alínea “d” do item 6.1.12 (Lei nº 8.666/1993), em prazo inferior a 48 (quarenta e oito) meses, pode resultar em suspensão temporária por até 24 meses.",
+      "III. A reincidência da prática de ilícito sancionável na forma da alínea “c” do item 6.1.14 (Lei nº 10.520/2002), em prazo inferior a 36 (trinta e seis) meses, pode levar ao impedimento de licitar e contratar com a União por até 12 meses.",
+      "IV. A reincidência da prática de inadimplemento sancionável na forma da alínea “d” do item 6.1.14 (Lei nº 10.520/2002), em prazo inferior a 48 (quarenta e oito) meses, pode resultar em impedimento de licitar e contratar com a União por até 5 anos."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas I, II e III.",
+      "Apenas III e IV.",
+      "I, II, III e IV."
+    ],
+    "correct_answer": "b",
+    "reference": "6.1.12 alíneas 'c', 'e', pág. 24; 6.1.14 alíneas 'c', 'd', pág. 25-26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-052",
+    "question": "Conforme a ICA 12-23, todo agente da administração, ao tomar conhecimento de descumprimento ou de inadimplemento de obrigação contratual, deverá comunicar formalmente o fato a quem, inicialmente?",
+    "options": [
+      "À fiscalização do contrato.",
+      "Ao Ordenador de Despesas (titular ou delegado) da UG.",
+      "Ao Agente de Controle Interno (ACI).",
+      "Diretamente à Assessoria de Risco Contratual (ARC)."
+    ],
+    "correct_answer": "a",
+    "reference": "4.1.1, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Médio"
+  },
+  {
+    "id": "I12-128",
+    "question": "Além da multa por atraso, a ICA 12-23 prevê a aplicação de multa de 0,2% (dois décimos por cento) do valor do contrato para outras situações de descumprimento. Qual das opções abaixo apresenta uma dessas situações?",
+    "options": [
+      "Quando a contratada atrasar a entrega de compras por 35 dias corridos.",
+      "Quando a contratada impedir ou dificultar os trabalhos da Fiscalização.",
+      "Quando a contratada não apresentar garantia contratual no prazo.",
+      "Quando a contratada der causa à rescisão contratual."
+    ],
+    "correct_answer": "b",
+    "reference": "Item 6.1.5.1.2, pág. 22 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-129",
+    "question": "A respeito da Declaração de Inidoneidade, a ICA 12-23 estabelece um prazo mínimo para que a reabilitação possa ser requerida pelo interessado. Qual é esse prazo?",
+    "options": [
+      "Após decorridos 6 (seis) meses de sua aplicação.",
+      "Após decorridos 1 (um) ano de sua aplicação.",
+      "Após decorridos 2 (dois) anos de sua aplicação.",
+      "Após decorridos 3 (três) anos de sua aplicação."
+    ],
+    "correct_answer": "c",
+    "reference": "Item 6.1.18, pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-171",
+    "question": "A ICA 12-23 estabelece regras claras para a designação de agentes na Fiscalização e Recebimento. Considere as seguintes situações hipotéticas:",
+    "items": [
+      "I. Uma Comissão de Recebimento para um contrato de obras é composta por três membros, sendo dois deles da Unidade Gestora (UG) signatária e o terceiro, um Agente de Controle Interno (ACI) de uma UG Apoiadora.",
+      "II. Em decorrência da limitação de recursos humanos, o Agente Diretor da UG 'Alfa' decide pela recondução integral dos membros da Comissão de Fiscalização para um novo período de um ano, registrando as justificativas detalhadamente em anexo à Portaria de designação.",
+      "III. Um Pregoeiro, que participou da licitação de um novo sistema de TI, é designado como Fiscal Suplente para o contrato decorrente dessa mesma licitação, devido à sua experiência técnica no assunto.",
+      "IV. Uma Unidade Gestora (UG) signatária de um termo de contrato decide que a Comissão de Recebimento será composta exclusivamente por agentes pertencentes a Organizações Militares (OM) diferentes da UG signatária, por serem os únicos com a certificação necessária para o objeto."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das situações acima representa(m) uma designação ou procedimento **NÃO PERMITIDO**?",
+    "options": [
+      "Apenas I e III.",
+      "Apenas III e IV.",
+      "Apenas I, III e IV.",
+      "Todas as situações, I, II, III e IV."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.9, pág. 15; 2.1.10, pág. 16; 2.1.11, pág. 16; 2.1.14, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-038",
+    "question": "Considere as seguintes situações hipotéticas relativas à designação de agentes no âmbito do Comando da Aeronáutica, de acordo com a ICA 12-23:",
+    "items": [
+      "I. Uma Comissão de Recebimento é composta por dois membros da UG signatária e um membro de outra Organização Militar da mesma Guarnição de Aeronáutica.",
+      "II. O Agente Diretor da UG 'Alfa' decide justificar a recondução integral dos membros da Comissão de Recebimento 'X' para um novo período, em decorrência da alta especialização técnica da equipe, registrando essa justificativa no ato de designação.",
+      "III. Um Pregoeiro que atuou em uma licitação 'Y' é designado para a Fiscalização do contrato decorrente dessa mesma licitação.",
+      "IV. Em um contrato de grande vulto, a Administração da UG 'Beta' designa uma Comissão de Fiscalização composta por apenas dois membros, sendo um deles Fiscal e o outro, um Agente Diretor."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das situações acima representa(m) uma designação **NÃO PERMITIDA** ou um procedimento **INCORRETO**?",
+    "options": [
+      "Apenas I e II.",
+      "Todas as situações, I, II, III e IV.",
+      "Apenas I, III e IV.",
+      "Apenas III e IV."
+    ],
+    "correct_answer": "d",
+    "reference": "1.2.11, pág. 11; 2.1.11, pág. 16; 2.1.14, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-168",
+    "question": "Conforme a ICA 12-23, em qual tipo de Unidade Gestora (UG) a autuação, indexação e juntada de documentos do Processo Administrativo de Apuração de Irregularidade (PAAI) competirá ao responsável pela condução do processo, conforme definição do Ordenador de Despesas?",
+    "options": [
+      "Na UG Apoiadora.",
+      "Na UG Executora.",
+      "Na UG Credora.",
+      "Na UG Apoiada."
+    ],
+    "correct_answer": "d",
+    "reference": "4.1.3, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Médio"
+  },
+  {
+    "id": "I12-099",
+    "question": "A Assessoria de Risco Contratual (ARC) foi instituída nas UG EXEC. Qual a finalidade principal dessa Assessoria?",
+    "options": [
+      "Realizar a contabilidade da UG.",
+      "Acompanhar a evolução do adimplemento dos objetos contratados, bem como instruir o PAAI relativo às empresas inadimplentes.",
+      "Promover licitações e contratos.",
+      "Gerenciar recursos humanos da UG."
+    ],
+    "correct_answer": "b",
+    "reference": "1.2.6, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-075",
+    "question": "Qual das seguintes ações é uma competência do Agente Diretor da UG signatária do termo de contrato, conforme a ICA 12-23?",
+    "options": [
+      "Instaurar o PAAI.",
+      "Aprovar mensalmente o Relatório de Situação Contratual.",
+      "Designar agentes de seu efetivo qualificados e disponíveis para Fiscal ou Comissão de Fiscalização.",
+      "Aplicar sanções administrativas à contratada."
+    ],
+    "correct_answer": "c",
+    "reference": "2.2.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-145",
+    "question": "A ICA 12-23 estabelece procedimentos para o recolhimento de multas e suas consequências. Caso a multa não seja recolhida no prazo estipulado, qual das seguintes ações **NÃO** é uma medida que a Administração pode adotar para reaver o valor?",
+    "options": [
+      "Descontar o valor primeiramente da garantia contratual.",
+      "Descontar o valor dos pagamentos eventualmente devidos pela Administração.",
+      "Cobrar judicialmente o valor, se as outras formas de desconto não forem suficientes.",
+      "Iniciar imediatamente um novo Processo Administrativo de Apuração de Irregularidade (PAAI) para a mesma infração."
+    ],
+    "correct_answer": "d",
+    "reference": "6.1.7, pág. 23 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-127",
+    "question": "De acordo com a ICA 12-23, qual o prazo e o dispositivo legal para recurso contra a aplicação de multas?",
+    "options": [
+      "5 (cinco) dias corridos, conforme alínea 'e', inciso I, art. 109 da Lei nº 8.666/93.",
+      "10 (dez) dias úteis, conforme alínea 'f', inciso II, art. 109 da Lei nº 8.666/93.",
+      "3 (três) dias úteis, conforme o disposto no artigo 7º da Lei nº 10.520/2002.",
+      "5 (cinco) dias úteis, consoante o disposto na alínea 'f', inciso I, art. 109 da Lei nº 8.666/93."
+    ],
+    "correct_answer": "d",
+    "reference": "Item 6.1.10, pág. 23 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-107",
+    "question": "Qual a competência do Ordenador de Despesas (titular ou delegado) da UG signatária do instrumento contratual em relação à aplicação de sanções administrativas, conforme a ICA 12-23?",
+    "options": [
+      "Apenas emitir advertências.",
+      "Negociar a desistência da aplicação de sanções com a contratada.",
+      "Encaminhar todos os casos de inexecução contratual diretamente ao Ministro da Defesa.",
+      "Instaurar o PAAI e aplicar sanções administrativas à contratada, assegurando o direito ao contraditório e à ampla defesa."
+    ],
+    "correct_answer": "d",
+    "reference": "2.3.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-169",
+    "question": "De acordo com a ICA 12-23, qual a consequência do não atendimento à notificação para defesa prévia no Processo Administrativo de Apuração de Irregularidade (PAAI) por parte do fornecedor?",
+    "options": [
+      "Implica no reconhecimento da veracidade dos fatos imputados, mas não na perda do direito de ampla defesa.",
+      "Implica na perda do direito de ampla defesa, mas não no reconhecimento da veracidade dos fatos.",
+      "Não implica reconhecimento da veracidade dos fatos, nem a perda ou a renúncia ao direito de ampla defesa.",
+      "Leva ao arquivamento imediato do PAAI, por falta de manifestação do interessado."
+    ],
+    "correct_answer": "c",
+    "reference": "5.1.3, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-004",
+    "question": "De acordo com a ICA 12-23, qual autoridade decide, motivadamente, pela instauração ou não de Processo Administrativo de Apuração de Irregularidade (PAAI)?",
+    "options": [
+      "O Agente de Controle Interno.",
+      "A Comissão de Fiscalização.",
+      "O Chefe da Assessoria de Risco Contratual (ARC).",
+      "O Ordenador de Despesas (titular ou delegado) da UG signatária do instrumento contratual."
+    ],
+    "correct_answer": "d",
+    "reference": "4.1.2, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Fácil"
+  },
+  {
+    "id": "I12-017",
+    "question": "Conforme a ICA 12-23, qual o prazo fixado para apresentação da defesa prévia, contados a partir do recebimento da notificação no Processo Administrativo de Apuração de Irregularidade (PAAI)?",
+    "options": [
+      "3 dias úteis.",
+      "5 dias úteis.",
+      "10 dias úteis.",
+      "15 dias úteis."
+    ],
+    "correct_answer": "b",
+    "reference": "5.1.2, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Fácil"
+  },
+  {
+    "id": "I12-109",
+    "question": "A ICA 12-23 estabelece que o Ordenador de Despesas (titular ou delegado) da UG signatária do instrumento contratual decide pela instauração ou não do PAAI. Em uma UG Apoiadora, a quem compete a autuação, indexação e juntada de documentos do PAAI?",
+    "options": [
+      "À Assessoria de Risco Contratual (ARC).",
+      "Ao próprio Ordenador de Despesas.",
+      "Ao Agente de Controle Interno (ACI).",
+      "À Fiscalização do Contrato."
+    ],
+    "correct_answer": "a",
+    "reference": "4.1.3, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Fácil"
+  },
+  {
+    "id": "I12-009",
+    "question": "A ICA 12-23 estabelece que a notificação ao fornecedor, que permitirá a defesa prévia no PAAI, deve ser realizada por meio de qual tipo de documento?",
+    "options": [
+      "Memorando interno.",
+      "Ofício externo.",
+      "E-mail institucional.",
+      "Telegrama."
+    ],
+    "correct_answer": "b",
+    "reference": "5.1.2, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Fácil"
+  },
+  {
+    "id": "I12-013",
+    "question": "A ICA 12-23 estabelece que a notificação para defesa prévia no PAAI deve conter o esclarecimento de que as razões de defesa deverão ser apresentadas por escrito e estar devidamente assinadas por sócio ou representante legal da empresa. Além disso, o que deve ser juntado no ato da resposta?",
+    "options": [
+      "Cópia do contrato social.",
+      "Declaração de faturamento da empresa.",
+      "Comprovante de residência do representante.",
+      "Procuração, se aplicável."
+    ],
+    "correct_answer": "d",
+    "reference": "5.1.2, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Fácil"
+  },
+  {
+    "id": "I12-027",
+    "question": "Associe as colunas, relacionando os cenários com a necessidade de substituição de integrantes de Comissões de Recebimento e de Fiscalização, conforme a ICA 12-23.",
+    "options": [
+      "(1); (2).",
+      "(2); (1).",
+      "(1); (1).",
+      "(2); (2)."
+    ],
+    "pairs": [
+      {
+        "header": "Cenário",
+        "items": [
+          "1. Afastamento do serviço igual ou superior a 30 (trinta) dias.",
+          "2. Afastamento do serviço inferior a 30 (trinta) dias."
+        ]
+      },
+      {
+        "header": "Substituição",
+        "items": [
+          "( ) Deverá ser substituído.",
+          "( ) Não necessita ser substituído."
+        ]
+      }
+    ],
+    "correct_answer": "a",
+    "reference": "2.1.13, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-090",
+    "question": "A ICA 12-23 descreve o Processo Administrativo de Apuração de Irregularidade (PAAI). O Ordenador de Despesas (titular ou delegado) da UG é quem instaura o PAAI. Caso o fornecedor não apresente defesa, o que o Ordenador de Despesas deverá fazer para decidir o processo?",
+    "options": [
+      "Emitir um despacho escrito contendo a exposição resumida dos fatos alegados, a análise da argumentação da defesa (mesmo que ausente) e os dispositivos legais que fundamentam sua decisão.",
+      "Aplicar a sanção sem necessidade de despacho, uma vez que não houve defesa.",
+      "Arquivar o processo por falta de elementos para a decisão.",
+      "Encaminhar o processo para a Autoridade Superior para decisão, pois não houve defesa."
+    ],
+    "correct_answer": "a",
+    "reference": "5.1.6, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-111",
+    "question": "De acordo com a ICA 12-23, a advertência é a sanção administrativa aplicada quando a contratada infringe obrigações pela primeira vez, como atraso na entrega ou incorreção na nota fiscal. Qual o prazo máximo para o cumprimento das orientações da fiscalização que, se não atendido, pode levar à aplicação da advertência?",
+    "options": [
+      "24 horas.",
+      "48 horas.",
+      "5 dias úteis.",
+      "10 dias corridos."
+    ],
+    "correct_answer": "b",
+    "reference": "Item 6.1.1, pág. 21 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-172",
+    "question": "A Assessoria de Risco Contratual (ARC) é um elemento chave na gestão de contratos. Analise as seguintes afirmações sobre sua criação, subordinação e composição, conforme a ICA 12-23:",
+    "items": [
+      "I. Somente Unidades Gestoras Executoras (UG EXEC) que gerenciam contratos de alto risco devem instituir a Assessoria de Risco Contratual (ARC).",
+      "II. A Assessoria de Risco Contratual (ARC) será subordinada diretamente ao Ordenador de Despesas (titular ou delegado) da Unidade Gestora (UG).",
+      "III. O Chefe da ARC, mesmo sendo o Gestor de Risco Contratual da UG, pode acumular a função de Fiscal de Contrato para contratos de baixa complexidade, a critério do Agente Diretor.",
+      "IV. A composição mínima da ARC é de um Oficial e dois graduados ou servidores civis assemelhados, sendo essa definição de competência do Agente Diretor da UG."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas II, III e IV.",
+      "Apenas I, II e IV."
+    ],
+    "correct_answer": "b",
+    "reference": "3.1, pág. 18; 3.2.1, pág. 18; 3.2.2, pág. 18; 3.3, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Difícil"
+  },
+  {
+    "id": "I12-035",
+    "question": "Conforme a ICA 12-23, qual a competência do Agente de Controle Interno (ACI) da UG Executora em relação ao Relatório de Situação Contratual?",
+    "options": [
+      "Aprovar o relatório mensalmente.",
+      "Elaborar o relatório e encaminhá-lo para autuação.",
+      "Revisar o relatório para identificar possíveis desvios de conduta do fiscal.",
+      "Conferir a exatidão dos dados lançados, observando o vencimento dos prazos, e autuar no PAG."
+    ],
+    "correct_answer": "d",
+    "reference": "2.4.2, pág. 17 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-155",
+    "question": "Sobre a investidura e recondução dos membros das Comissões de Recebimento, a ICA 12-23 estabelece que:",
+    "options": [
+      "A investidura não excederá 2 (dois) anos, permitida a recondução da totalidade de seus membros mediante justificativa do Ordenador de Despesas.",
+      "A investidura não excederá 1 (um) ano, vedada a recondução da totalidade de seus membros para a mesma comissão em período subsequente, salvo em situações excepcionais devidamente justificadas pelo Agente Diretor no ato da designação.",
+      "A recondução dos membros é sempre permitida a cada período de 1 (um) ano, desde que aprovada pelo Agente de Controle Interno da UG.",
+      "Não há prazo máximo de investidura para os membros, desde que sejam substituídos em casos de afastamentos superiores a 30 (trinta) dias."
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.12, pág. 16; 2.1.14, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-125",
+    "question": "Conforme a ICA 12-23, qual das seguintes afirmações sobre a aplicação de multa está **CORRETA**?",
+    "options": [
+      "A aplicação de multa exime a contratada da reparação de eventuais danos e prejuízos à Administração.",
+      "A multa exclui a possibilidade de imposição de outras penalidades à contratada.",
+      "Nenhum pagamento será efetuado à contratada antes da comprovação do recolhimento da multa, salvo se provada sua não aplicabilidade por ato formal do Ordenador de Despesas.",
+      "O recurso contra a aplicação de multa deve ser interposto em até 10 (dez) dias úteis."
+    ],
+    "correct_answer": "c",
+    "reference": "Itens 6.1.8, 6.1.9, 6.1.10, pág. 23 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-093",
+    "question": "Em relação à competência para a aplicação da sanção de Declaração de Inidoneidade, qual das seguintes afirmações está **INCORRETA** de acordo com a ICA 12-23?",
+    "options": [
+      "Será aplicada exclusivamente pelo Ministro de Estado da Defesa.",
+      "O PAAI para esta sanção será encaminhado ao Ministro da Defesa, via cadeia de comando.",
+      "A COJAER emitirá parecer antes da decisão do Ministro de Estado.",
+      "A reabilitação para esta sanção pode ser requerida pelo interessado após decorridos 5 anos de sua aplicação."
+    ],
+    "correct_answer": "d",
+    "reference": "4.1.4, pág. 19; 6.1.17, pág. 26; 6.1.18, pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Médio"
+  },
+  {
+    "id": "I12-084",
+    "question": "Associe as conceituações com os termos correspondentes, conforme a ICA 12-23.",
+    "options": [
+      "(2); (1); (3).",
+      "(1); (3); (2).",
+      "(3); (2); (1).",
+      "(1); (2); (3)."
+    ],
+    "pairs": [
+      {
+        "header": "Termo",
+        "items": [
+          "1. Acompanhamento",
+          "2. Fiscalização",
+          "3. Recebimento"
+        ]
+      },
+      {
+        "header": "Conceituação",
+        "items": [
+          "( ) Denominação genérica relativa à atividade exercida por Agente da Administração para verificar o cumprimento de disposições contratuais, visando identificar desvios.",
+          "( ) Atividade exercida pelo Fiscal do Contrato ou outro agente designado, com o objetivo de avaliar o cumprimento das disposições contratuais para identificar a possibilidade de ocorrência de eventuais desvios.",
+          "( ) Atividade de verificação de materiais, serviços ou obras para a realização de aceite, após os devidos exames quantitativo e qualitativo."
+        ]
+      }
+    ],
+    "correct_answer": "a",
+    "reference": "1.2.1.1, pág. 9; 1.2.20, pág. 12; 1.2.29.1, pág. 13 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Médio"
+  },
+  {
+    "id": "I12-124",
+    "question": "Sobre a Declaração de Inidoneidade, a ICA 12-23 estabelece que esta sanção é aplicada exclusivamente por uma autoridade específica e sob certas condições. Qual autoridade é responsável por sua aplicação e qual das situações abaixo NÃO é uma condição para sua ocorrência?",
+    "options": [
+      "Ministro de Estado da Defesa; A empresa ou profissional tenha sofrido condenação definitiva pela prática de fraude fiscal por meios dolosos.",
+      "Comandante da Aeronáutica; Constatação, pelo Tribunal de Contas da União, da ocorrência de fraude comprovada à licitação.",
+      "Ministro de Estado da Defesa; A Administração venha a constatar que a empresa ou o profissional não possuam idoneidade para contratar em virtude de atos ilícitos praticados.",
+      "Ministro de Estado da Defesa; A empresa ou profissional tenha praticado ato ilícito visando frustrar os objetivos da licitação."
+    ],
+    "correct_answer": "b",
+    "reference": "Itens 4.1.4, 6.1.17, 6.1.17 alíneas 'a', 'b', 'c', 'd', pág. 19, 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-154",
+    "question": "A ICA 12-23 permite que o recebimento de bens e serviços de valor inferior ao estabelecido no § 8º do art. 15 da Lei 8.666/93 seja realizado por agente designado. Na definição desse valor, o que deve ser levado em consideração?",
+    "options": [
+      "O valor da última nota de empenho individualizada emitida para o contrato específico em questão.",
+      "Apenas o valor constante da Ata de Registro de Preços, se o contrato for dela decorrente.",
+      "O montante total do Processo Administrativo de Gestão (PAG) resultante do procedimento licitatório, independentemente dos valores constantes das atas de registro de preços, notas de empenho ou títulos de crédito.",
+      "O valor estimado do objeto contratado no edital de licitação, excluindo quaisquer aditivos ou reajustes."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.6, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-078",
+    "question": "A ICA 12-23 conceitua 'Administração Pública'. Qual o seu abrangimento?",
+    "options": [
+      "Apenas a administração direta da União.",
+      "A administração direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, incluindo entidades com personalidade jurídica de direito privado sob controle do poder público e fundações por ele instituídas ou mantidas.",
+      "Apenas as empresas públicas e sociedades de economia mista.",
+      "Exclusivamente os órgãos do Comando da Aeronáutica."
+    ],
+    "correct_answer": "b",
+    "reference": "1.2.2, pág. 10 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-098",
+    "question": "Qual dos seguintes documentos não é diretamente mencionado na ICA 12-23 como parte dos critérios de designação ou restrições de agentes para fiscalização ou recebimento?",
+    "options": [
+      "Portaria publicada em Boletim Interno.",
+      "Lei nº 8.666/93.",
+      "Regras de segregação de funções.",
+      "Manual de Organização Militar."
+    ],
+    "correct_answer": "d",
+    "reference": "2.2.1, pág. 16; 2.1.10, pág. 16; 2.1.11, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-095",
+    "question": "A ICA 12-23 estabelece que a investidura dos membros das Comissões de Recebimento não excederá 1 (um) ano, vedada a recondução da totalidade de seus membros para a mesma comissão em período subsequente. Em situações excepcionais, o Agente Diretor da UG pode justificar a recondução integral de membros para mais um período. O que deve ser considerado para a definição do valor de bens e serviços que podem ser recebidos por um único agente designado?",
+    "options": [
+      "O valor constante da ata de registro de preços.",
+      "O valor da nota de empenho individual.",
+      "O montante total do Processo Administrativo de Gestão (PAG) resultante do procedimento licitatório.",
+      "Apenas o valor do contrato em vigência."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.6, pág. 15; 2.1.12, pág. 16; 2.1.14, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-051",
+    "question": "Qual das seguintes alternativas descreve corretamente uma restrição imposta pela ICA 12-23 sobre a composição da Assessoria de Risco Contratual (ARC)?",
+    "options": [
+      "O Chefe da ARC pode acumular a função de Agente de Controle Interno, desde que a UG seja pequena.",
+      "A composição da ARC deve ser mínima de um Oficial e dois graduados ou servidores civis assemelhados.",
+      "A ARC não pode ser subordinada ao Ordenador de Despesas, para evitar conflitos de interesse.",
+      "Todas as UG Apoiadas devem instituir a Assessoria de Risco Contratual (ARC)."
+    ],
+    "correct_answer": "b",
+    "reference": "3.3, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Médio"
+  },
+  {
+    "id": "I12-022",
+    "question": "De acordo com a ICA 12-23, em situações excepcionais, decorrentes da limitação qualitativa ou quantitativa de recursos humanos, o que o Agente Diretor da UG deverá fazer para a recondução integral de membros para as Comissões de Recebimento ou de Fiscalização, para mais um período?",
+    "options": [
+      "Solicitar autorização ao Ordenador de Despesas.",
+      "Consultar o Agente de Controle Interno.",
+      "Justificar as razões no ato da designação desses agentes.",
+      "Comunicar o Ministério da Defesa."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.14, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-054",
+    "question": "Considere as seguintes situações hipotéticas relacionadas à designação de comissões de recebimento, conforme a ICA 12-23:",
+    "items": [
+      "I. Uma Unidade Gestora (UG) signatária de um contrato designa uma Comissão de Recebimento composta exclusivamente por agentes pertencentes a Organizações Militares (OM) diferentes da UG signatária, por considerar que possuem maior expertise técnica no objeto contratado.",
+      "II. O Agente Diretor de uma UG decide pela recondução integral de todos os membros de uma Comissão de Recebimento para um período subsequente, justificando essa decisão oralmente em reunião com a equipe, sem registro formal no ato de designação, devido à escassez de pessoal qualificado.",
+      "III. O recebimento definitivo de um bem de alto valor é realizado por um único agente designado pela Administração da UG, que é um Fiscal de Contrato experiente, sem a formação de uma Comissão de Recebimento.",
+      "IV. Os termos contratuais de uma UG Apoiada, cujo objeto é de interesse tanto da UG Apoiada quanto da UG Executora, são fiscalizados e recebidos por agentes da UG Executora em conjunto com os Agentes da UG Apoiada."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das situações acima representa(m) um procedimento **NÃO PERMITIDO** ou **INCORRETO**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas II e III.",
+      "Apenas I, II e IV.",
+      "Apenas I, II e III."
+    ],
+    "correct_answer": "d",
+    "reference": "2.1.4, pág. 15; 2.1.9, pág. 15; 2.1.14, pág. 16; 2.1.3, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-112",
+    "question": "Quais dos seguintes critérios devem ser considerados para a aplicação de sanções administrativas, conforme a ICA 12-23?",
+    "options": [
+      "Apenas a gravidade da falta e o dano causado ao Interesse Público.",
+      "Apenas a reincidência e o prejuízo causado à Administração.",
+      "A gravidade da falta, a reincidência, o dano causado ao Interesse Público e o prejuízo causado à Administração.",
+      "Apenas a reincidência e a capacidade de reparação do fornecedor."
+    ],
+    "correct_answer": "c",
+    "reference": "Item 6.1.3, pág. 21 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-080",
+    "question": "Conforme a ICA 12-23, a instauração do Processo Administrativo de Apuração de Irregularidade (PAAI) se dá por meio de qual ato?",
+    "options": [
+      "Por comunicação verbal da fiscalização.",
+      "Por despacho motivado do Ordenador de Despesas.",
+      "Por termo de início assinado pelo Agente de Controle Interno.",
+      "Por decisão da Assessoria de Risco Contratual (ARC)."
+    ],
+    "correct_answer": "b",
+    "reference": "5.1.1, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Fácil"
+  },
+  {
+    "id": "I12-068",
+    "question": "Conforme a ICA 12-23, todo agente da administração, ao tomar conhecimento de descumprimento contratual, deve comunicar formalmente o fato à fiscalização. Considere que o Ordenador de Despesas da UG 'Gama' decide instaurar um Processo Administrativo de Apuração de Irregularidade (PAAI) contra uma empresa. A empresa contesta a sanção aplicada, alegando que o recurso deveria ter sido julgado por outra autoridade. Qual seria a autoridade recursal para uma sanção de 'suspensão temporária' aplicada pelo Ordenador de Despesas?",
+    "options": [
+      "O próprio Ordenador de Despesas, pois foi quem instaurou o PAAI.",
+      "O Agente de Controle Interno da UG, por ser um órgão de controle.",
+      "O superior imediato do Ordenador de Despesas que decidiu inicialmente pela imposição da sanção.",
+      "O Ministro de Estado da Defesa, por se tratar de sanção administrativa."
+    ],
+    "correct_answer": "c",
+    "reference": "4.1.5, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Difícil"
+  },
+  {
+    "id": "I12-043",
+    "question": "Considere a situação em que uma Unidade Gestora Apoiada precisa fiscalizar e receber bens de um termo contratual diretamente relacionado à missão de apoio de uma UG Executora. De acordo com a ICA 12-23, quem poderá atuar na fiscalização e recebimento nesse caso?",
+    "options": [
+      "Somente agentes da UG Apoiada.",
+      "Somente agentes da UG Executora.",
+      "Agentes da UG Executora, podendo estes atuarem em conjunto com os Agentes da UG Apoiada.",
+      "Agentes de qualquer UG, desde que designados pelo Agente Diretor."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.3, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-148",
+    "question": "Um fornecedor de material de expediente teve um atraso de 40 (quarenta) dias corridos na entrega de um pedido no valor de R$ 20.000,00. De acordo com a ICA 12-23, qual o valor total da multa a ser aplicada por esse atraso?",
+    "options": [
+      "R$ 800,00.",
+      "R$ 1.200,00.",
+      "R$ 1.600,00.",
+      "R$ 2.000,00."
+    ],
+    "correct_answer": "d",
+    "reference": "6.1.5.2, pág. 22 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-164",
+    "question": "Conforme a ICA 12-23, por meio de qual documento formal o Ordenador de Despesas (titular ou delegado) aplicará a sanção administrativa?",
+    "options": [
+      "Um termo de rescisão contratual genérico.",
+      "Um memorando interno de caráter informativo.",
+      "Um documento formal, conforme modelo constante no MCA 172-3 (digital).",
+      "Uma notificação verbal com registro em ata."
+    ],
+    "correct_answer": "c",
+    "reference": "5.1.7, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Fácil"
+  },
+  {
+    "id": "I12-026",
+    "question": "De acordo com a ICA 12-23, se o fornecedor não apresentar defesa ou se o Ordenador de Despesas não acolher as razões de defesa apresentadas no PAAI, este decidirá por despacho escrito. O que esse despacho deve conter, no mínimo?",
+    "options": [
+      "Apenas a decisão final de aplicação da sanção.",
+      "Somente a data e a assinatura do Ordenador de Despesas.",
+      "Um resumo da ata de instauração do PAAI e a indicação do valor da multa.",
+      "A exposição resumida dos fatos alegados pelo fornecedor, a análise da argumentação da defesa considerada improcedente e os dispositivos legais que fundamentam a decisão."
+    ],
+    "correct_answer": "d",
+    "reference": "5.1.6, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-056",
+    "question": "Analise as seguintes afirmações sobre as competências na aplicação de sanções administrativas, de acordo com a ICA 12-23:",
+    "items": [
+      "I. É competência do Ordenador de Despesas (titular ou delegado) da UG signatária do instrumento contratual instaurar o PAAI e aplicar sanções administrativas à contratada.",
+      "II. A Declaração de Inidoneidade, por ser a sanção mais grave, é aplicada pelo Comando da Aeronáutica, após parecer da Consultoria Jurídica-Adjunta (COJAER).",
+      "III. O recurso contra a aplicação de sanções de advertência e multa deve ser julgado pelo Ministro de Estado da Defesa, em última instância.",
+      "IV. Em uma UG Apoiadora, o responsável pela condução do processo do PAAI é definido pelo Ordenador de Despesas, enquanto na UG Apoiada essa atribuição é da Assessoria de Risco Contratual (ARC)."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I.",
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I e II."
+    ],
+    "correct_answer": "a",
+    "reference": "2.3.1, pág. 16; 4.1.3, pág. 19; 4.1.4, pág. 19; 4.1.5, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Difícil"
+  },
+  {
+    "id": "I12-044",
+    "question": "A ICA 12-23 exige que, ao definir o valor para o recebimento de bens e serviços que podem ser realizados por agente designado (inferior ao § 8º do art. 15 da Lei 8.666/93), o que deve ser levado em consideração?",
+    "options": [
+      "O montante total do Processo Administrativo de Gestão (PAG) resultante do procedimento licitatório.",
+      "O valor da nota de empenho individual.",
+      "Apenas o valor constante da ata de registro de preços.",
+      "O valor do item mais caro do contrato."
+    ],
+    "correct_answer": "a",
+    "reference": "2.1.6, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-130",
+    "question": "Com relação à sanção de advertência, a ICA 12-23 estabelece que ela não deverá ser proposta em uma situação específica. Qual situação é essa?",
+    "options": [
+      "Casos de má-fé do fornecedor ou intenção deliberada de inadimplir obrigações.",
+      "Quando implicar prejuízo à execução do contrato ou à própria administração.",
+      "Quando o descumprimento for de obrigações afetas ao atraso na entrega, pela primeira vez.",
+      "Para casos de reincidência, na mesma espécie de descumprimento."
+    ],
+    "correct_answer": "d",
+    "reference": "Item 6.1.2, pág. 21 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Médio"
+  },
+  {
+    "id": "I12-131",
+    "question": "Uma empresa contratada para a reforma de uma instalação militar tem um prazo de 20 (vinte) dias úteis para a conclusão de uma etapa da obra, cujo valor correspondente é de R$ 50.000,00. A empresa entregou esta etapa com 35 (trinta e cinco) dias corridos de atraso. De acordo com a ICA 12-23 e a Tabela 1 (Fator Progressivo de Correção), qual o valor da multa a ser aplicada?",
+    "options": [
+      "R$ 10.500,00.",
+      "R$ 12.000,00.",
+      "R$ 9.500,00.",
+      "R$ 8.000,00."
+    ],
+    "correct_answer": "a",
+    "reference": "Itens 6.1.5.1.1, 6.1.5.1.1 alínea 'b' e Tabela 1, pág. 21-22 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-136",
+    "question": "A ICA 12-23 estabelece que o Processo Administrativo de Apuração de Irregularidade (PAAI) para a aplicação da Declaração de Inidoneidade será encaminhado ao Ministro da Defesa. Qual das seguintes condições, isoladamente, pode levar à aplicação desta sanção?",
+    "options": [
+      "A contratada tenha causado o retardamento da execução do contrato.",
+      "A empresa ou profissional não possuam idoneidade para contratar em virtude de atos ilícitos praticados, constatado pela Administração.",
+      "A contratada tenha falhado na execução do contrato, sem comprovar má-fé.",
+      "O Tribunal de Contas da União apenas sugira a ocorrência de fraude à licitação, sem comprovação definitiva."
+    ],
+    "correct_answer": "b",
+    "reference": "Item 6.1.17 alínea 'c', pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-019",
+    "question": "Qual a composição mínima da Assessoria de Risco Contratual (ARC), conforme a ICA 12-23?",
+    "options": [
+      "Um Oficial e dois graduados ou servidores civis assemelhados.",
+      "Um Oficial e um graduado ou servidor civil assemelhado.",
+      "Dois Oficiais e um graduado.",
+      "Três graduados ou servidores civis assemelhados."
+    ],
+    "correct_answer": "a",
+    "reference": "3.3, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Fácil"
+  },
+  {
+    "id": "I12-055",
+    "question": "A ICA 12-23 detalha as competências e restrições para a designação de agentes. Considere as seguintes situações hipotéticas:",
+    "items": [
+      "I. O Gestor de Finanças da UG 'Gama' é designado para integrar a Comissão de Recebimento de um contrato de serviços contínuos.",
+      "II. O Pregoeiro da licitação 'X' é designado para a Fiscalização do contrato dela decorrente.",
+      "III. O Agente de Controle Interno (ACI) da UG 'Delta' é nomeado Fiscal substituto de um contrato de aquisição de bens.",
+      "IV. Uma Comissão de Recebimento é composta exclusivamente por agentes pertencentes a Organizações Militares diferentes da UG signatária do instrumento."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das situações acima representa(m) uma designação **NÃO PERMITIDA**?",
+    "options": [
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I, II e III.",
+      "Todas as situações, I, II, III e IV."
+    ],
+    "correct_answer": "d",
+    "reference": "2.1.9, pág. 15; 2.1.10, pág. 16; 2.1.11, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-031",
+    "question": "A ICA 12-23 estabelece que os integrantes das comissões de recebimento podem pertencer a quaisquer Organizações da Guarnição de Aeronáutica em que se localizar a OM signatária. Em que situação eles podem pertencer à UG que não atenda a esse requisito?",
+    "options": [
+      "Quando as especificidades do objeto ou o interesse público exigir.",
+      "Em qualquer situação, desde que haja justificativa do Agente Diretor.",
+      "Apenas com autorização do Comandante da Aeronáutica.",
+      "Somente se a UG signatária não tiver pessoal qualificado."
+    ],
+    "correct_answer": "a",
+    "reference": "2.1.8, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-162",
+    "question": "Conforme a ICA 12-23, qual o título atribuído ao Chefe da Assessoria de Risco Contratual (ARC)?",
+    "options": [
+      "Gestor de Finanças.",
+      "Agente Diretor.",
+      "Gestor de Risco Contratual da UG.",
+      "Coordenador de Licitações."
+    ],
+    "correct_answer": "c",
+    "reference": "3.2.2, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Fácil"
+  },
+  {
+    "id": "I12-174",
+    "question": "O Processo Administrativo de Apuração de Irregularidade (PAAI) é fundamental para a aplicação de sanções. Analise as seguintes afirmações sobre seus procedimentos, conforme a ICA 12-23:",
+    "items": [
+      "I. A notificação ao fornecedor para defesa prévia no PAAI deve ser realizada por meio de ofício externo do Ordenador de Despesas da UG, e deve conter a exposição resumida dos fatos.",
+      "II. Mesmo que o fornecedor inadimplente corrija a falha imputada, o PAAI só poderá ser arquivado após a autorização expressa do Ministro de Estado da Defesa, devido à gravidade do processo.",
+      "III. Se o fornecedor não apresentar defesa prévia no prazo estipulado, a Administração poderá aplicar a sanção imediatamente, pois a inércia implica na aceitação tácita dos fatos.",
+      "IV. Caso o Ordenador de Despesas não acolha as razões de defesa apresentadas, ele deverá decidir por despacho escrito, contendo a análise da argumentação da defesa considerada improcedente e os dispositivos legais que fundamentam sua decisão."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e IV.",
+      "Apenas II e III.",
+      "Apenas I, II e III.",
+      "Apenas II e IV."
+    ],
+    "correct_answer": "a",
+    "reference": "5.1.2, pág. 20; 5.1.3, pág. 20; 5.1.5, pág. 20; 5.1.6, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Difícil"
+  },
+  {
+    "id": "I12-074",
+    "question": "A ICA 12-23 define 'Fiscalização' como a atividade exercida por Agente da Administração designado, com conhecimento técnico acerca do objeto contratado, ou por Comissão especificamente designada. Qual o objetivo principal desta atividade?",
+    "options": [
+      "Definir a aplicação de sanções administrativas.",
+      "Verificar o cumprimento de disposições contratuais e identificar desvios ou desconformidades.",
+      "Negociar novos termos e condições contratuais.",
+      "Gerenciar os recursos financeiros do contrato."
+    ],
+    "correct_answer": "b",
+    "reference": "1.2.20, pág. 12 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-147",
+    "question": "Analise as seguintes afirmações sobre a aplicação de sanções e os critérios de dosimetria, conforme a ICA 12-23:",
+    "items": [
+      "I. A advertência não deverá ser proposta para casos de reincidência, na mesma espécie de descumprimento, devendo ser aplicada penalidade mais severa.",
+      "II. A multa por inexecução total ou parcial do contrato pode ser aplicada juntamente com outras sanções administrativas previstas nos incisos I, III e IV, do art. 87, da Lei nº 8.666/93, caso a defesa prévia do interessado seja facultada no prazo de 5 (cinco) dias úteis.",
+      "III. A aplicação de multa exime a contratada da reparação de eventuais danos, perdas e prejuízos que seu ato punível venha acarretar à Administração.",
+      "IV. A reabilitação para a sanção de Declaração de Inidoneidade pode ser requerida pelo interessado após decorridos 2 (dois) anos de sua aplicação."
+    ],
+    "closing_statement": "Qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas III e IV.",
+      "Apenas I, II e IV.",
+      "Todas as afirmações, I, II, III e IV."
+    ],
+    "correct_answer": "c",
+    "reference": "6.1.2, pág. 21; 6.1.4, pág. 21; 6.1.9, pág. 23; 6.1.18, pág. 26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-010",
+    "question": "Qual das seguintes funções/cargos **NÃO** deve ser designado para a Fiscalização ou para integrar a Comissão de Recebimento, conforme a ICA 12-23?",
+    "options": [
+      "Fiscal Técnico.",
+      "Membro da Equipe de Apoio de uma licitação da qual fez parte.",
+      "Servidor Civil assemelhado sem função de gestão.",
+      "Membro de Comissão de Fiscalização."
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.11, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-023",
+    "question": "Qual das seguintes atribuições está correta quanto à competência do Ordenador de Despesas (titular ou delegado) da UG signatária do instrumento contratual, conforme a ICA 12-23?",
+    "options": [
+      "Designar membros para a Comissão de Recebimento por meio de Portaria.",
+      "Aprovar mensalmente o Relatório de Situação Contratual apresentado pela fiscalização.",
+      "Realizar a conferência da exatidão dos dados lançados no Relatório de Situação Contratual.",
+      "Decidir sobre a composição da Assessoria de Risco Contratual."
+    ],
+    "correct_answer": "b",
+    "reference": "2.3.1, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-137",
+    "question": "Um fornecedor de equipamentos de informática teve um atraso de 55 (cinquenta e cinco) dias corridos na entrega de um lote de computadores. O valor da obrigação em atraso era de R$ 10.000,00. De acordo com a ICA 12-23, qual o valor total da multa a ser aplicada?",
+    "options": [
+      "R$ 1.600,00.",
+      "R$ 1.400,00.",
+      "R$ 1.200,00.",
+      "R$ 1.000,00."
+    ],
+    "correct_answer": "a",
+    "reference": "Item 6.1.5.2, pág. 22 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-059",
+    "question": "O Ordenador de Despesas (titular ou delegado) da UG é a autoridade responsável por instaurar o PAAI e aplicar sanções administrativas. Considere um cenário em que uma notificação ao fornecedor é emitida para defesa prévia no PAAI. Qual dos seguintes conteúdos é **ESSENCIAL E OBRIGATÓRIO** nessa notificação, conforme a ICA 12-23, para que o processo seja válido?",
+    "items": [
+      "I. A identificação completa do fornecedor e a finalidade da notificação.",
+      "II. A exposição detalhada de todos os danos causados à Administração, com valores estimados.",
+      "III. A cláusula do edital ou contratual inadimplida e a fixação do prazo de cinco dias úteis para apresentação da defesa prévia.",
+      "IV. A informação de que as razões de defesa deverão ser apresentadas por escrito e estar devidamente assinadas por sócio ou representante legal da empresa, constituído por meio de procuração, se for o caso."
+    ],
+    "closing_statement": "Qual(is) dos itens acima deve(m) obrigatoriamente constar na notificação?",
+    "options": [
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I, III e IV.",
+      "Todos os itens, I, II, III e IV."
+    ],
+    "correct_answer": "c",
+    "reference": "5.1.2, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Difícil"
+  },
+  {
+    "id": "I12-025",
+    "question": "Conforme a ICA 12-23, qual o prazo para que o PAAI possa ser arquivado caso o fornecedor inadimplente corrija a falha que lhe foi imputada e realize o ressarcimento pelos prejuízos eventualmente causados?",
+    "options": [
+      "Não há um prazo fixo, depende da autoridade competente.",
+      "Após 30 dias da correção da falha.",
+      "Não há prazo, o PAAI pode ser arquivado mediante despacho fundamentado do Ordenador de Despesas (titular ou delegado) da UG.",
+      "Após a decisão final do Ordenador de Despesas, independentemente da correção da falha."
+    ],
+    "correct_answer": "c",
+    "reference": "5.1.5, pág. 20 [ICA 12-23.pdf]",
+    "tags": "PROCESSO ADMINISTRATIVO DE APURAÇÃO DE IRREGULARIDADE -(PAAI), Médio"
+  },
+  {
+    "id": "I12-091",
+    "question": "Associe as colunas, relacionando os termos com suas respectivas conceituações, conforme a ICA 12-23.",
+    "options": [
+      "(1); (2); (3).",
+      "(3); (1); (2).",
+      "(2); (3); (1).",
+      "(1); (3); (2)."
+    ],
+    "pairs": [
+      {
+        "header": "Termo",
+        "items": [
+          "1. Ampla Defesa",
+          "2. Contraditório",
+          "3. PAAI"
+        ]
+      },
+      {
+        "header": "Conceituação",
+        "items": [
+          "( ) Direito de defesa irrestrita e de contra-argumentação diante de fatos imputados.",
+          "( ) Procedimento administrativo interno formal, composto do registro de todos os atos e da apuração dos fatos administrativos, necessário ao correto esclarecimento e julgamento.",
+          "( ) É a própria exteriorização do princípio da ampla defesa, direito de contestação e de impugnação de atos e atividades."
+        ]
+      }
+    ],
+    "correct_answer": "a",
+    "reference": "1.2.5.1, pág. 10; 1.2.28, pág. 13; 1.2.13, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Médio"
+  },
+  {
+    "id": "I12-039",
+    "question": "A ICA 12-23 estabelece regras para a composição das comissões de recebimento. Considere as seguintes afirmações:",
+    "items": [
+      "I. A quantidade de membros de cada Comissão de Recebimento será definida pela Administração da UG signatária, respeitado o mínimo estabelecido na instrução.",
+      "II. As comissões de recebimento não podem ser compostas exclusivamente por agentes pertencentes a Organizações Militares diferentes da UG signatária do instrumento, mesmo que haja interesse público.",
+      "III. Os Pregoeiros e os membros das Equipes de Apoio podem ser designados para a Comissão de Recebimento, desde que não tenham feito parte do procedimento licitatório anterior.",
+      "IV. O Ordenador de Despesas e o Agente de Controle Interno (ACI) podem integrar a Comissão de Recebimento, desde que por delegação de competência."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I."
+    ],
+    "correct_answer": "d",
+    "reference": "2.1.7, pág. 15; 2.1.9, pág. 15; 2.1.10, pág. 16; 2.1.11, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Difícil"
+  },
+  {
+    "id": "I12-100",
+    "question": "De acordo com a ICA 12-23, qual a competência do Agente de Controle Interno (ACI) da UG EXEC em relação ao Relatório de Situação Contratual?",
+    "options": [
+      "Elaborar o Relatório de Situação Contratual.",
+      "Conferir a exatidão dos dados lançados no Relatório de Situação Contratual, observando principalmente o vencimento dos prazos.",
+      "Aprovar o Relatório de Situação Contratual mensalmente.",
+      "Dispensar a apresentação do Relatório de Situação Contratual em casos de contratos de baixo valor."
+    ],
+    "correct_answer": "b",
+    "reference": "2.4.2, pág. 17 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-063",
+    "question": "Considere as seguintes situações hipotéticas relativas à aplicação de sanções administrativas, conforme a ICA 12-23:",
+    "items": [
+      "I. Um agente da administração identifica um descumprimento contratual e, sem comunicar a fiscalização, reporta diretamente ao Ordenador de Despesas para que este instaure o PAAI.",
+      "II. O Ordenador de Despesas de uma UG Apoiadora decide não instaurar um PAAI para um caso de inexecução contratual, mas registra sua decisão motivadamente no processo.",
+      "III. A Declaração de Inidoneidade é aplicada pelo Ordenador de Despesas da UG, após a conclusão do PAAI e parecer da Assessoria de Risco Contratual.",
+      "IV. Um recurso contra a aplicação de uma sanção de suspensão temporária é interposto e julgado pelo próprio Ordenador de Despesas que a aplicou, por ele ser a autoridade competente para a instauração do PAAI."
+    ],
+    "closing_statement": "Qual(is) das situações acima representa(m) um procedimento **INCORRETO** de acordo com a ICA 12-23?",
+    "options": [
+      "Apenas I.",
+      "Apenas I e III.",
+      "Apenas I, III e IV.",
+      "Todas as situações, I, II, III e IV."
+    ],
+    "correct_answer": "c",
+    "reference": "4.1.1, pág. 19; 4.1.2, pág. 19; 4.1.4, pág. 19; 4.1.5, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Difícil"
+  },
+  {
+    "id": "I12-001",
+    "question": "De acordo com a ICA 12-23, qual o mínimo de membros recomendado para a Comissão de Fiscalização?",
+    "options": [
+      "Dois membros.",
+      "Cinco membros.",
+      "Quatro membros.",
+      "Três membros."
+    ],
+    "correct_answer": "d",
+    "reference": "1.2.11, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-050",
+    "question": "A ICA 12-23 detalha que a Administração da UG deverá, obrigatoriamente, designar Comissão para atuar na Fiscalização e Recebimento para as situações previstas no § 8º do art. 15 da Lei 8.666/93. Qual o critério para a formação de comissões de recebimento?",
+    "options": [
+      "Composição mínima de três membros, obedecido o critério estabelecido na Lei 8.666/93.",
+      "Composição mínima de dois membros, sendo um deles o Fiscal do Contrato.",
+      "A quantidade de membros é sempre definida pela autoridade superior, sem mínimo legal.",
+      "Pode ser composta por um único agente designado se o valor for baixo."
+    ],
+    "correct_answer": "a",
+    "reference": "1.2.12, pág. 11; 2.1.4, pág. 15 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Médio"
+  },
+  {
+    "id": "I12-040",
+    "question": "Considere o chefe da Assessoria de Risco Contratual (ARC) da UG 'Alfa' e suas possíveis acumulações de funções, de acordo com a ICA 12-23:",
+    "items": [
+      "I. O Chefe da ARC pode acumular a função de Gestor de Risco Contratual da UG e, ao mesmo tempo, ser um Oficial da Unidade, desde que não haja conflito de interesse.",
+      "II. O Chefe da ARC pode ser, simultaneamente, um graduado da Unidade e membro de uma Comissão Especial de Licitação, desde que não tenha atuado no contrato em questão.",
+      "III. O Chefe da ARC é impedido de acumular as funções de Agente de Controle Interno e Fiscal de Contrato.",
+      "IV. A composição da ARC é definida pelo Agente Diretor da UG, e o Chefe da ARC deve ser necessariamente um Oficial, sem exceções."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das afirmações está(ão) **CORRETA(S)**?",
+    "options": [
+      "Apenas I e III.",
+      "Apenas I e IV.",
+      "Apenas II e III.",
+      "Apenas I."
+    ],
+    "correct_answer": "a",
+    "reference": "3.2.2, pág. 18; 3.3, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Difícil"
+  },
+  {
+    "id": "I12-024",
+    "question": "A ICA 12-23 define a finalidade da Assessoria de Risco Contratual (ARC). Dentre as opções abaixo, qual representa uma de suas finalidades principais?",
+    "options": [
+      "Gerenciar o patrimônio da Unidade Gestora.",
+      "Realizar auditorias internas nos contratos.",
+      "Negociar aditivos contratuais com os fornecedores.",
+      "Instruir o Processo Administrativo de Apuração de Irregularidade (PAAI) relativo às empresas inadimplentes."
+    ],
+    "correct_answer": "d",
+    "reference": "1.2.6, pág. 11 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Médio"
+  },
+  {
+    "id": "I12-135",
+    "question": "A ICA 12-23 detalha diversas gradações de sanções. Qual das seguintes opções apresenta uma situação que, tanto pela Lei nº 8.666/1993 (Suspensão Temporária) quanto pela Lei nº 10.520/2002 (Impedimento de Licitar e Contratar com a União), pode resultar na mesma gradação de até **12 (doze) meses**?",
+    "options": [
+      "A não quitação/saldo da multa no prazo estabelecido, nas situações em que não for possível descontar o valor da garantia ou dos créditos.",
+      "A recusa do licitante vencedor em assinar o contrato, convocado dentro do prazo de validade de sua proposta.",
+      "A reincidência da prática de ilícito sancionável em prazos inferiores a 24 (vinte e quatro) meses.",
+      "A inexecução contratual da qual resultem graves prejuízos à Administração."
+    ],
+    "correct_answer": "a",
+    "reference": "Itens 6.1.12 alínea 'd', 6.1.14 alínea 'd', pág. 24-26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-115",
+    "question": "Para fins da aplicação de multa por inexecução total ou parcial do objeto contratado, a ICA 12-23 estabelece um prazo a partir do qual o atraso em compras, obras, serviços de engenharia, prestação de serviços de conservação e limpeza ou qualquer outro serviço contínuo é considerado inexecução total do contrato/empenho. Qual é esse prazo?",
+    "options": [
+      "Atraso superior a 30 (trinta) dias corridos.",
+      "Atraso superior a 45 (quarenta e cinco) dias corridos.",
+      "Atraso superior a 60 (sessenta) dias corridos.",
+      "Atraso superior a 90 (noventa) dias corridos."
+    ],
+    "correct_answer": "c",
+    "reference": "Item 6.1.5.3 alínea 'b', pág. 23 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Fácil"
+  },
+  {
+    "id": "I12-105",
+    "question": "A ICA 12-23 detalha as atividades da Administração. Qual dos seguintes agentes deve, obrigatoriamente, ser designado para atuar na Fiscalização e/ou na Comissão de Recebimento de todos os contratos pactuados com a Organização?",
+    "options": [
+      "O Gestor de Licitações.",
+      "O Agente de Controle Interno.",
+      "Agentes da Administração.",
+      "O Ordenador de Despesas."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.1, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-139",
+    "question": "Considere o caso da empresa 'Beta', contratada para a execução de um serviço contínuo. Nos últimos 12 meses, a empresa recebeu duas advertências por atraso na entrega de relatórios, tendo em ambos os casos adotado as medidas corretivas no prazo. Recentemente, a empresa novamente retardou imotivadamente o fornecimento de materiais que, conforme a fiscalização, implicaria em rescisão contratual. Em um procedimento licitatório na modalidade pregão anterior, a 'Beta' havia interposto um recurso manifestamente protelatório. De acordo com a ICA 12-23, quais sanções podem ser aplicadas à empresa 'Beta' considerando esses históricos e quais seriam suas gradações máximas?",
+    "options": [
+      "Suspensão temporária de até 6 meses (Lei 8.666/93) pela reincidência das advertências, e impedimento de licitar e contratar com a União de até 3 meses (Lei 10.520/02) pelo recurso protelatório.",
+      "Impedimento de licitar e contratar com a União de até 5 anos (Lei 10.520/02) pela fraude, e Suspensão temporária de até 24 meses (Lei 8.666/93) pela inexecução contratual.",
+      "Suspensão temporária de até 6 meses (Lei 8.666/93) pela reincidência das advertências, e impedimento de licitar e contratar com a União de até 12 meses (Lei 10.520/02) pelo retardamento imotivado.",
+      "Suspensão temporária de até 12 meses (Lei 8.666/93) pelo retardamento imotivado, e impedimento de licitar e contratar com a União de até 3 meses (Lei 10.520/02) pelo recurso protelatório."
+    ],
+    "correct_answer": "d",
+    "reference": "Itens 6.1.12 alíneas 'c', 'd', 6.1.14 alíneas 'b', 'd', pág. 24-26 [ICA 12-23.pdf]",
+    "tags": "DA DOSIMETRIA PARA APLICAÇÃO DE SANÇÕES, Difícil"
+  },
+  {
+    "id": "I12-104",
+    "question": "Segundo a ICA 12-23, o que se entende por 'Recebimento'?",
+    "options": [
+      "A atividade de verificação de materiais, serviços ou obras para a realização de aceite, após os devidos exames quantitativo e qualitativo.",
+      "A aprovação do pagamento ao fornecedor.",
+      "A assinatura do contrato após a licitação.",
+      "A fiscalização contínua da execução contratual."
+    ],
+    "correct_answer": "a",
+    "reference": "1.2.29.1, pág. 13 [ICA 12-23.pdf]",
+    "tags": "DISPOSIÇÕES PRELIMINARES, Fácil"
+  },
+  {
+    "id": "I12-166",
+    "question": "Associe as colunas relacionando os cargos da Administração com as respectivas restrições de designação para a Fiscalização ou para integrar a Comissão de Recebimento, conforme a ICA 12-23.",
+    "options": [
+      "(3); (2); (1).",
+      "(1); (3); (2).",
+      "(2); (1); (3).",
+      "(3); (1); (2)."
+    ],
+    "pairs": [
+      {
+        "header": "Cargo",
+        "items": [
+          "1. Ordenador de Despesas",
+          "2. Pregoeiro",
+          "3. Agente de Controle Interno (ACI)"
+        ]
+      },
+      {
+        "header": "Restrição Aplicável",
+        "items": [
+          "( ) Não deve ser designado para a Fiscalização ou para integrar a Comissão de Recebimento.",
+          "( ) Não poderá ser designado para a Fiscalização ou para integrar a Comissão de Recebimento referente aos procedimentos licitatórios de que fez parte.",
+          "( ) Não deve ser designado para a Fiscalização ou para integrar a Comissão de Recebimento."
+        ]
+      }
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.10, pág. 16; 2.1.11, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-151",
+    "question": "De acordo com a ICA 12-23, sobre a quantidade de membros da Comissão de Recebimento, qual afirmação está correta?",
+    "options": [
+      "A quantidade é sempre de três membros, definida pelo Ordenador de Despesas.",
+      "A quantidade mínima é de três membros, mas a definição da quantidade exata é competência da Administração da UG signatária do termo, por ato de seu respectivo Agente Diretor, obedecido ao disposto na legislação pertinente.",
+      "A quantidade é definida pela Administração da UG sem a necessidade de respeitar um mínimo legal, desde que justificado.",
+      "A Comissão de Recebimento sempre terá cinco membros, conforme legislação da União para contratos de serviços."
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.7, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Médio"
+  },
+  {
+    "id": "I12-165",
+    "question": "A ICA 12-23 estabelece que os termos contratuais diretamente relacionados à missão de apoio de uma Unidade Gestora Executora (UG EXEC), cujo objeto também seja de interesse da Unidade Gestora Apoiada (UG Apoiada), serão fiscalizados e recebidos por Agentes da Administração de qual UG?",
+    "options": [
+      "Apenas da UG Apoiada.",
+      "Apenas da UG EXEC.",
+      "Da UG EXEC, podendo estes atuarem em conjunto com os Agentes da UG Apoiada.",
+      "De qualquer UG da Guarnição de Aeronáutica, independentemente do tipo."
+    ],
+    "correct_answer": "c",
+    "reference": "2.1.3, pág. 15 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  },
+  {
+    "id": "I12-015",
+    "question": "Todas as Unidades Gestoras Executoras (UG EXEC) deverão instituir em sua estrutura regimental a Assessoria de Risco Contratual (ARC), conforme a ICA 12-23. Qual o critério para a criação da ARC?",
+    "options": [
+      "Apenas UG EXEC com contratos acima de um valor específico.",
+      "Todas as UG EXEC.",
+      "A critério do Agente Diretor da UG.",
+      "Apenas UG EXEC com histórico de inadimplência de fornecedores."
+    ],
+    "correct_answer": "b",
+    "reference": "3.1, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Fácil"
+  },
+  {
+    "id": "I12-047",
+    "question": "A ICA 12-23 estabelece quem é a Autoridade Superior para julgar e decidir, em caráter recursal, sobre certas sanções. Quem é essa Autoridade Superior para as sanções de advertência, multa, suspensão temporária (Lei nº 8.666/1993) ou impedimento de licitar e contratar com a União (Lei nº 10.520/2002)?",
+    "options": [
+      "O Ordenador de Despesas que aplicou a sanção.",
+      "O Agente de Controle Interno da UG.",
+      "O superior imediato da autoridade que decidiu inicialmente pela imposição da sanção.",
+      "O Comandante da Aeronáutica."
+    ],
+    "correct_answer": "c",
+    "reference": "4.1.5, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Médio"
+  },
+  {
+    "id": "I12-058",
+    "question": "A Assessoria de Risco Contratual (ARC) possui regras de subordinação e acumulação de funções, conforme a ICA 12-23. Considere as seguintes situações:",
+    "items": [
+      "I. O Chefe da ARC de uma Unidade Gestora (UG) é nomeado Agente de Controle Interno (ACI) da mesma UG, devido à sua vasta experiência em gestão de riscos.",
+      "II. A ARC de uma UG Executora é subordinada diretamente ao Ordenador de Despesas (titular) daquela UG.",
+      "III. Um graduado da estrutura da UG é designado como Chefe da ARC, acumulando também a função de Fiscal de Contrato em um novo contrato.",
+      "IV. A composição da ARC é definida pelo Agente Diretor da UG e deve ter, no mínimo, dois Oficiais e um Graduado ou servidor civil assemelhado."
+    ],
+    "closing_statement": "De acordo com a ICA 12-23, qual(is) das situações acima representa(m) uma violação das diretrizes estabelecidas?",
+    "options": [
+      "Apenas I e III.",
+      "Apenas II e IV.",
+      "Apenas I, III e IV.",
+      "Apenas I, II e III."
+    ],
+    "correct_answer": "c",
+    "reference": "3.2.1, pág. 18; 3.2.2, pág. 18; 3.3, pág. 18 [ICA 12-23.pdf]",
+    "tags": "DA ASSESSORIA DE RISCO CONTRATUAL (ARC), Difícil"
+  },
+  {
+    "id": "I12-016",
+    "question": "De acordo com a ICA 12-23, em que tipo de Unidade Gestora (UG) a autuação, indexação e juntada de documentos do PAAI competem à Assessoria de Risco Contratual (ARC)?",
+    "options": [
+      "Na UG Apoiada.",
+      "Na UG Credora.",
+      "Na UG Executora.",
+      "Na UG Apoiadora."
+    ],
+    "correct_answer": "d",
+    "reference": "4.1.3, pág. 19 [ICA 12-23.pdf]",
+    "tags": "DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS, Fácil"
+  },
+  {
+    "id": "I12-108",
+    "question": "Qual das seguintes entidades ou cargos **NÃO** podem ser designados para a Fiscalização ou para integrar a Comissão de Recebimento, conforme a ICA 12-23?",
+    "options": [
+      "Fiscal Titular.",
+      "Agente de Controle Interno (ACI).",
+      "Suplente do Fiscal.",
+      "Agente da Administração com conhecimento técnico."
+    ],
+    "correct_answer": "b",
+    "reference": "2.1.10, pág. 16 [ICA 12-23.pdf]",
+    "tags": "PROCEDIMENTOS DA ADMINISTRAÇÃO, Fácil"
+  }
+]
